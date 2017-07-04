@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<ul> 
+<li>home</li>
+</ul>
 
 ## Welcome to another page
 
