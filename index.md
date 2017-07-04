@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## [](#header-1)Who we are
+## [](#header-1) Who we are
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+We are a group of bug bounty participants from all over the world. We are on a mission to make the Internet more secure. 
 
-## [](#header-2) Our mission
+## [](#header-2) What we do
 
-We are on a mission to make the Internet more secure. We believe in helping hackers/researchers learn about security by helping them interact with each other, share knowledge, guide each other and help everyone to secure the internet.
+We believe in helping hackers/researchers learn about security by helping them interact with each other, share knowledge, guide each other and help everyone to secure the internet.
 
 We want to make the bug bounty community more open and connected. Help us with it and use the hashtag [#bugbountyworld](https://twitter.com/search?q=%23bugbountyworld) on Twitter to support us.
 
