@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+	font-family: 'Droid Serif', serif !important;
+}
 header h1 {
 	font-size: 60px;
 	font-family: 'Droid Serif', serif;
 }
-#main-content {
 
+#main-content {
 	text-align: justify;
-}
-#main-content h2 {
-	font-family: 'Droid Serif', serif;
 }

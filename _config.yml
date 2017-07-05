@@ -1,5 +1,5 @@
 title: Bug Bounty World
 description: A community for bug-bounty enthusiasts
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect

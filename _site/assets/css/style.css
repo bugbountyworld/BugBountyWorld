@@ -964,12 +964,12 @@ footer a:hover {
     content: none; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+body {
+  font-family: 'Droid Serif', serif !important; }
+
 header h1 {
   font-size: 60px;
   font-family: 'Droid Serif', serif; }
 
 #main-content {
   text-align: justify; }
-
-#main-content h2 {
-  font-family: 'Droid Serif', serif; }
