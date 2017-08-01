@@ -12,4 +12,4 @@ We believe in helping hackers/researchers learn about security by helping them i
 
 We want to make the bug bounty community more open and connected. Help us with it and use the hashtag [#bugbountyworld](https://twitter.com/search?q=%23bugbountyworld) on Twitter to support us.
 
-Note: Do not confuse us with @bugbountyforum. Bug Bounty Forum is a closed slack-group managed by other people.
+**Note: Do not confuse us with @bugbountyforum. Bug Bounty Forum is a closed slack-group managed by other people.**
