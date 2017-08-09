@@ -14,3 +14,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+# sidebar links
+sidebar-navigation:
+  - title: "Home"
+    url: /  
+  - title: "Rules To Follow"
+    url: /rules/
+  - title: "Slack Basics"
+    url: /slack-basics/
+
+  

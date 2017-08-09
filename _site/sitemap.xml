@@ -3,4 +3,10 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/rules/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/slack-basics/</loc>
+</url>
 </urlset>
