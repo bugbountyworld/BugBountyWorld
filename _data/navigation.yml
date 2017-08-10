@@ -18,11 +18,81 @@ main:
 
 # sidebar links
 sidebar-navigation:
-  - title: "Home"
+  - title: "Home 🏠"
     url: /  
-  - title: "Rules To Follow"
+  - title: "Rules To Follow 📝"
     url: /rules/
-  - title: "Slack Basics"
-    url: /slack-basics/
+    children:
+      - title: "Basic Rules"
+        url: /rules/#basicrules
+      - title: "Platform Rules"
+        url: /rules/#platformrules
+      - title: "Slack Basics"
+        url: /rules/#slackbasics
+  - title: "How It Works? 🤔"
+    url: /how-it-works/
+    children:
+      - title: "Channels"
+        url: /how-it-works/#channels
+  - title: "Slack Archives 💎"
+    url: /slack-archives/
+  - title: "Blogs"
+    url: /slack-archives/#blogs
+    children:
+      - title: "RCE"
+        url: /slack-archives/#rce
+      - title: "XSS"
+        url: /slack-archives/#xss
+      - title: "CSRF"
+        url: /slack-archives/#csrf
+      - title: "SSRF"
+        url: /slack-archives/#ssrf
+      - title: "Application Logic"
+        url: /slack-archives/#app-logic
+      - title: "Race conditions"
+        url: /slack-archives/#race-conditions
+      - title: "Rate limits"
+        url: /slack-archives/#rate-limits
+      - title: "Open redirect"
+        url: /slack-archives/#open-redirect
+      - title: "IDOR"
+        url: /slack-archives/#idor
+      - title: "XXE"
+        url: /slack-archives/#xxe
+      - title: "LFI"
+        url: /slack-archives/#lfi
+      - title: "SQLi"
+        url: /slack-archives/#sqli
+      - title: "API"
+        url: /slack-archives/#api
+      - title: "OAuth / SAML"
+        url: /slack-archives/#oauth-saml
+      - title: "Cors / CSP "
+        url: /slack-archives/#cors-csp
+      - title: "Subdomain Takeover"
+        url: /slack-archives/#subdomain-takeovers
+      - title: "Miscellaneous"
+        url: /slack-archives/#miscellaneous
+    
+  - title: "Tools"
+    url: /slack-archives/#tools
+    children:
+      - title: "Discovery"
+        url: /slack-archives/#tools-discovery
+      - title: "Recon"
+        url: /slack-archives/#tools-recon
+      - title: "Mobile"
+        url: /slack-archives/#tools-mobile
+      - title: "Miscellaneous"
+        url: /slack-archives/#tools-miscellaneous
+  - title: "CTFs"
+    url: /slack-archives/#ctfs
+    children:
+      - title: "CTF Sites"
+        url: /slack-archives/#ctf-sites
+      - title: "CTF WriteUps"
+        url: /slack-archives/#ctf-writeups
+      
 
+  
   
