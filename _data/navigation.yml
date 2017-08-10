@@ -59,8 +59,8 @@ sidebar-navigation:
         url: /slack-archives/#idor
       - title: "XXE"
         url: /slack-archives/#xxe
-      - title: "LFI"
-        url: /slack-archives/#lfi
+      - title: "LFI / RFI"
+        url: /slack-archives/#lfi-rfi
       - title: "SQLi"
         url: /slack-archives/#sqli
       - title: "API"
@@ -71,8 +71,12 @@ sidebar-navigation:
         url: /slack-archives/#cors-csp
       - title: "Subdomain Takeover"
         url: /slack-archives/#subdomain-takeovers
+      - title: "Serialization / Deserialization"
+        url: /slack-archives/#serialization
       - title: "Miscellaneous"
         url: /slack-archives/#miscellaneous
+      - title: "Other Awesome Resources"
+        url: /slack-archives/#other-resources
     
   - title: "Tools"
     url: /slack-archives/#tools
