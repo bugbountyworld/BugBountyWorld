@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Bug Bounty World"
 title_separator          : "-"
-name                     : "Pranav Hivarekar"
+name                     : "Bug Bounty World"
 description              : "Making bugbounty community more open and connected."
 url                      : "http://bugbountyworld.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
