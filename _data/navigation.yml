@@ -6,6 +6,8 @@ main:
     url: https://bugbounty-world.slack.com
   - title: "Sign Up"
     url: https://docs.google.com/forms/d/e/1FAIpQLSf7_ZNpxlsFOF9_1ZqNMayc_njgB-OqDeQvIA-JvTORlmkNeQ/viewform
+  - title: "Contact"
+    url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -98,7 +100,8 @@ sidebar-navigation:
         url: /slack-archives/#ctf-sites
       - title: "CTF WriteUps"
         url: /slack-archives/#ctf-writeups
-      
+  - title: "Contact"
+    url: /contact/    
 
   
   
