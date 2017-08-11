@@ -89,6 +89,8 @@ sidebar-navigation:
         url: /slack-archives/#tools-mobile
       - title: "Miscellaneous"
         url: /slack-archives/#tools-miscellaneous
+      - title: "Other Awesome Resources"
+        url: /slack-archives/#tools-other-resources
   - title: "CTFs"
     url: /slack-archives/#ctfs
     children:
