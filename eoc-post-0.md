@@ -1,0 +1,61 @@
+# Tip
+
+Lightweight Mark:up: language vulnerabilities
+
+So you might be familiar with some leightweight markup languages (LML) such as RubyDoc, Textile and reStructuredText, but have you ever tried finding security issues with them?
+
+First check this table for all features the LML supports. Some LMLs support class and id attributes! This allows you to use predefined styles on the current page.
+
+**RubyDoc (.rdoc)**
+
+```
+XSS[JavaScript:alert(1)]
+```
+
+**Textile (.textile)**
+
+Surprisingly, Textilte supports a lot of things including the style attribute.
+
+```
+"Test link":javascript:alert(1)
+p(#my-paragraph). This is a paragraph that has an id.
+p(myclass). This is a paragraph that has a class.
+div(myclass#myid). This div has both a CSS class and an id.
+p{font-size: 0.8em}. Small font.
+```
+
+**reStructuredText (.rst)**
+
+```
+`Test link`__.  __ javascript:alert(document.domain)
+```
+
+**AsciiDoc (.adoc)**
+
+```
+http://example.com[Reverse Tabnabbing^]
+```
+
+# Challenge
+
+You must find the challenge first.
+
+![](https://i.imgur.com/ANeyQKA.jpg)
+
+> Oiusetba elhrk plv xvtm, vhrqpvj jmsaa wr Glycv ws xlms fsaaifw avap klq, nz ph zsermg ws gbzq wlr uweoif vn Phhvh ijdmazb Dvxlhohv. Aulv wkil dmuh vrhlb, ki flvw d qrzadji gv Kbuyf, oqggia pv wki oltob ss h pdui, vunruqvuo klq goiw wlr Tmgleaz erxpq tcwlrl vv wki spmog, wuvcog lr ainh eeta djevuaw kmf nzdqhshbkhv.
+The key is hidden.
+
+# Rules
+
+As always the rules are:
+- DM me (@EdOverflow) your solution. Please send me a little write-up so that I can see how you went about solving the challenge. 
+- Do not post solutions in the channel.
+- You may work in teams to solve challenge.
+- Challenges end when at least 5 people have solved the challenge.
+- If you have questions you can contact me. Please do not ask for solutions before the challenge ends.
+
+# References
+
+- https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md
+- https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/
+- https://hackerone.com/reports/213114
