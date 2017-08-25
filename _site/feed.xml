@@ -1,1 +1,248 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-10T20:33:07-04:00</updated><id>http://localhost:4000/</id><title type="html">Bug Bounty World</title><subtitle>Making bugbounty community more open and connected.</subtitle><author><name>Pranav Hivarekar</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-26T01:31:37+05:30</updated><id>http://localhost:4000/</id><title type="html">Bug Bounty World</title><subtitle>Making bugbounty community more open and connected.</subtitle><author><name>Pranav Hivarekar</name></author><entry><title type="html">EOC - Post #1</title><link href="http://localhost:4000/eoc-post-1/" rel="alternate" type="text/html" title="EOC - Post #1" /><published>2017-08-17T00:00:00+05:30</published><updated>2017-08-17T00:00:00+05:30</updated><id>http://localhost:4000/eoc-post-1</id><content type="html" xml:base="http://localhost:4000/eoc-post-1/">&lt;h1 id=&quot;tip&quot;&gt;Tip&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;White-box testing keywords mega list&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a list of keywords to look for when reading source code.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;api
+api_key
+api_secret_key
+secret_key
+secret
+BEGIN
+PRIVATE
+private
+PRIVATE_KEY
+private_key
+key
+token
+CSRF
+Arrays.equals
+HMAC
+random
+mt_rand
+rand
+random.org
+iv
+encrypt
+crypt
+MCRYPT
+RIJNDAEL
+MCRYPT_RIJNDAEL_256
+ECB
+ecb
+password
+passwd
+pass
+hash
+hashlib
+hashed
+md5
+sha1
+sha-1
+sha2
+sha-2
+salt
+bcrypt
+$2a$
+PBKDF2
+blake2
+CVE
+vulnerable
+stackoverflow
+SO
+base64
+Base64
+admin
+rot13
+tmp
+system
+exec
+popen
+backtick operator
+pcntl_exec
+eval
+preg_replace
+create_function
+exec
+passthru
+system
+shell_exec
+popen
+proc_open
+pcntl_exec
+assert
+preg_replace('/.*/e',
+create_function
+include
+include_once
+require
+require_once
+$_GET
+phpinfo
+posix_mkfifo
+posix_getlogin
+posix_ttyname
+getenv
+get_current_user
+proc_get_status
+get_cfg_var
+disk_free_space
+disk_total_space
+diskfreespace
+getcwd
+getlastmo
+getmygid
+getmyinode
+getmypid
+getmyuid
+extract
+parse_str
+putenv
+ini_set
+mail
+header
+proc_nice
+proc_terminate
+proc_close
+pfsockopen
+fsockopen
+apache_child_terminate
+posix_kill
+posix_mkfifo
+posix_setpgid
+posix_setsid
+posix_setuid
+chmod
+chown
+shell=True
+pickle.loads
+yaml.load
+debug
+DebuggedApplication
+Debug=True
+evalex=True
+Math.random
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The keyword text file can be found here: http://bugbountyworld.com/other/keywords.txt.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+
+&lt;p&gt;Write a script that greps for these keywords in source code and then prints them into a file with line numbers.&lt;/p&gt;
+
+&lt;p&gt;Here are the different categories that you can compete in:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Smallest script.&lt;/li&gt;
+  &lt;li&gt;Most obscure language.&lt;/li&gt;
+  &lt;li&gt;Fastest script.&lt;/li&gt;
+  &lt;li&gt;Most user-friendly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will test the scripts against:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://github.com/clarkio/vulnerable-app&lt;/li&gt;
+  &lt;li&gt;https://github.com/adamdoupe/WackoPicko&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;rules&quot;&gt;Rules&lt;/h1&gt;
+
+&lt;p&gt;As always the rules are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DM me (@EdOverflow) your solution. Please send me a little write-up so that I can see how you went about solving the challenge.&lt;/li&gt;
+  &lt;li&gt;Do not post solutions in the channel.&lt;/li&gt;
+  &lt;li&gt;You may work in teams to solve challenge.&lt;/li&gt;
+  &lt;li&gt;Challenges end when at least 5 people have solved the challenge.&lt;/li&gt;
+  &lt;li&gt;If you have questions you can contact me. Please do not ask for solutions before the challenge ends.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://stackoverflow.com/questions/3115559/exploitable-php-functions&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>EdOverflow</name></author><summary type="html">Tip</summary></entry><entry><title type="html">EOC - Post #0</title><link href="http://localhost:4000/eoc-post-0/" rel="alternate" type="text/html" title="EOC - Post #0" /><published>2017-08-16T00:00:00+05:30</published><updated>2017-08-16T00:00:00+05:30</updated><id>http://localhost:4000/eoc-post-0</id><content type="html" xml:base="http://localhost:4000/eoc-post-0/">&lt;h1 id=&quot;tip&quot;&gt;Tip&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Lightweight Mark:up: language vulnerabilities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So you might be familiar with some leightweight markup languages (LML) such as RubyDoc, Textile and reStructuredText, but have you ever tried finding security issues with them?&lt;/p&gt;
+
+&lt;p&gt;First check this &lt;a href=&quot;https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_language_features&quot;&gt;table&lt;/a&gt; for all features the LML supports. Some LMLs support class and id attributes! This allows you to use predefined styles on the current page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RubyDoc (.rdoc)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;XSS[JavaScript:alert(1)]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Textile (.textile)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, Textilte supports a lot of things including the style attribute.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;Test link&quot;:javascript:alert(1)
+p(#my-paragraph). This is a paragraph that has an id.
+p(myclass). This is a paragraph that has a class.
+div(myclass#myid). This div has both a CSS class and an id.
+p{font-size: 0.8em}. Small font.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;reStructuredText (.rst)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`Test link`__.  __ javascript:alert(document.domain)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;AsciiDoc (.adoc)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;http://example.com[Reverse Tabnabbing^]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+
+&lt;p&gt;You must find the challenge first.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ANeyQKA.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oiusetba elhrk plv xvtm, vhrqpvj jmsaa wr Glycv ws xlms fsaaifw avap klq, nz ph zsermg ws gbzq wlr uweoif vn Phhvh ijdmazb Dvxlhohv. Aulv wkil dmuh vrhlb, ki flvw d qrzadji gv Kbuyf, oqggia pv wki oltob ss h pdui, vunruqvuo klq goiw wlr Tmgleaz erxpq tcwlrl vv wki spmog, wuvcog lr ainh eeta djevuaw kmf nzdqhshbkhv.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The key is hidden.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tip:&lt;/em&gt; The solution is just a text excerpt.&lt;/p&gt;
+
+&lt;h1 id=&quot;rules&quot;&gt;Rules&lt;/h1&gt;
+
+&lt;p&gt;As always the rules are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DM me (@EdOverflow) your solution. Please send me a little write-up so that I can see how you went about solving the challenge.&lt;/li&gt;
+  &lt;li&gt;Do not post solutions in the channel.&lt;/li&gt;
+  &lt;li&gt;You may work in teams to solve challenge.&lt;/li&gt;
+  &lt;li&gt;Challenges end when at least 5 people have solved the challenge.&lt;/li&gt;
+  &lt;li&gt;If you have questions you can contact me. Please do not ask for solutions before the challenge ends.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md&quot;&gt;https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/&quot;&gt;https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackerone.com/reports/213114&quot;&gt;https://hackerone.com/reports/213114&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;solution-2017-08-17&quot;&gt;Solution (2017-08-17)&lt;/h1&gt;
+
+&lt;details&gt;
+	&lt;summary&gt;By &lt;a href=&quot;https://twitter.com/uraniumhacker&quot;&gt;@uraniumhacker&lt;/a&gt;&lt;/summary&gt;
+1) Ed is a troll
+&lt;br /&gt;
+2) The key is literally &quot;hidden&quot;
+&lt;br /&gt;
+3) copy the vigenere and the for the key put &quot;hidden&quot;
+&lt;br /&gt;
+4) Solved
+&lt;/details&gt;</content><author><name>EdOverflow</name></author><summary type="html">Tip</summary></entry></feed>
