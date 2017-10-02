@@ -36,6 +36,8 @@ sidebar-navigation:
     children:
       - title: "Channels"
         url: /how-it-works/#channels
+  - title: "BugBounty Talks 🎤"
+    url: /bugbounty-talks/
   - title: "Slack Archives 💎"
     url: /slack-archives/
   - title: "Blogs"
