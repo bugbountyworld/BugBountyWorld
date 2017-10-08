@@ -1,3 +1,5 @@
+# programs
+---
 # blogs
 * https://blogs.securiteam.com/index.php/archives/3445
 * https://medium.com/@HassanYusufzai/device-authorization-bypass-aa508c9193ed
@@ -50,12 +52,6 @@
 * https://www.synack.com/2017/09/11/swap
 * https://medium.com/@xgeoffellis/ellis-geoff-v-smith-simon-legal-matters-9799719ffc5e
 ---
-# programs
----
-# ctf
-* https://twitter.com/HivarekarPranav/status/886798635576545281
-* http://blog.bugcrowd.com/car-hacking-in-the-cloud-for-cheap-at-def-con
----
 # tools
 * https://gist.github.com/streaak/270bc07a395111d3b2f4bfa4f09162bb
 * https://twitter.com/_devalias/status/915048540258234368
@@ -79,4 +75,8 @@
 # help
 ---
 # news
+---
+# ctf
+* https://twitter.com/HivarekarPranav/status/886798635576545281
+* http://blog.bugcrowd.com/car-hacking-in-the-cloud-for-cheap-at-def-con
 ---
