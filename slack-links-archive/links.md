@@ -6,8 +6,9 @@ date:   2017-10-8
 ---
 
 ## programs
+
 ---
-# blogs
+## blogs
 * https://blogs.securiteam.com/index.php/archives/3445
 * https://medium.com/@HassanYusufzai/device-authorization-bypass-aa508c9193ed
 * http://blog.bugcrowd.com/what-we-can-learn-from-netgears-approach-to-security
@@ -58,8 +59,9 @@ date:   2017-10-8
 * https://blogs.depotsec.com/write-ups/escape-from-self-xss
 * https://www.synack.com/2017/09/11/swap
 * https://medium.com/@xgeoffellis/ellis-geoff-v-smith-simon-legal-matters-9799719ffc5e
+
 ---
-# tools
+## tools
 * https://gist.github.com/streaak/270bc07a395111d3b2f4bfa4f09162bb
 * https://twitter.com/_devalias/status/915048540258234368
 * http://scans.io
@@ -78,12 +80,16 @@ date:   2017-10-8
 * https://twitter.com/uraniumhacker/status/905626917927174144
 * https://ifttt.com/applets/cpnKJ8ty-xsshunter-sms-trigger
 * https://hackerone.com/lazy
+
 ---
-# help
+## help
+
 ---
-# news
+## news
+
 ---
-# ctf
+## ctf
 * https://twitter.com/HivarekarPranav/status/886798635576545281
 * http://blog.bugcrowd.com/car-hacking-in-the-cloud-for-cheap-at-def-con
+
 ---
