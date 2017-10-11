@@ -4,9 +4,69 @@ title:  "Slack Links Archive"
 author: mhmdiaa
 date:   2017-10-11
 ---
-## hackerone
-* [publiclyDisclosed on Twitter](https://twitter.com/disclosedh1/status/906517588376739841){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://twitter.com/disclosedh1/status/901217662235226112){:target="_blank"}
+## blogs
+* [My First CloudFront Sub-Domain Hijack](https://blog.zsec.uk/subdomainhijack){:target="_blank"}
+* [When Parameterized Queries Won't Help](https://nickbloor.co.uk/2017/10/09/when-parameterized-queries-wont-help){:target="_blank"}
+* [Unauthorized FLIR (Lorex) Cloud Access](https://depthsecurity.com/blog/unauthorized-flir-cloud-access){:target="_blank"}
+* [Subdomain Takeover Through Expired Cloudfront Distribution - live.lamborghini.com - Security Breached Blog](https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked){:target="_blank"}
+* [Security Breached Blog - Security Breached - Latest Cyber News, Exploits, Tools & Tutorials - Securitybreached.org](https://blog.securitybreached.org){:target="_blank"}
+* [Consistency is Key: Aligning Bugcrowd's VRT with CVSS](http://blog.bugcrowd.com/consistency-is-key-aligning-bugcrowds-vrt-with-cvss-within-crowdcontrol){:target="_blank"}
+* [AMA with @uraniumhacker](https://bugbountyforum.com/blog/ama/uranium238){:target="_blank"}
+* [September 2017 Hall of Fame](http://blog.bugcrowd.com/september-2017-hall-of-fame){:target="_blank"}
+* [">](http://bayo.rocks/bbf_poc.html){:target="_blank"}
+* [SSD Advisory - QNAP HelpDesk SQL Injection](https://blogs.securiteam.com/index.php/archives/3469){:target="_blank"}
+* [SSD Advisory - PHP Melody Multiple Vulnerabilities](https://blogs.securiteam.com/index.php/archives/3464){:target="_blank"}
+* [Blind SQL injection through an Excel spread sheet](https://www.dionach.com/blog/blind-sql-injection-through-an-excel-spread-sheet){:target="_blank"}
+* [SSD Advisory - Vacron NVR Remote Command Execution](https://blogs.securiteam.com/index.php/archives/3445){:target="_blank"}
+* [Device Authorization Bypass! - HassanKhanYusufzai - Medium](https://medium.com/@HassanYusufzai/device-authorization-bypass-aa508c9193ed){:target="_blank"}
+* [What We Can Learn from NETGEAR's Approach to Security](http://blog.bugcrowd.com/what-we-can-learn-from-netgears-approach-to-security){:target="_blank"}
+* [Netgear's bug bounty program - Powered by Bugcrowd](https://bugcrowd.com/netgear){:target="_blank"}
+* [Introducing the Bugcrowd Researcher Advisory Council](http://blog.bugcrowd.com/introducing-the-bugcrowd-researcher-advisory-council){:target="_blank"}
+* [How I could have mass uploaded from every Flickr account!](https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account){:target="_blank"}
+* [XSLT Server Side Injection Attacks - Context Information Security](https://www.contextis.com/blog/xslt-server-side-injection-attacks){:target="_blank"}
+* [HackerOne Joins Forces with Node.js Foundation to Build a Safer Internet - HackerOne](https://www.hackerone.com/blog/node-js-foundation){:target="_blank"}
+* [Better than Cyber Monday: Ecommerce and Retail Edition of The Hacker-Powered Security Report - HackerOne](https://www.hackerone.com/blog/hacker-powered-security-report-retail-edition){:target="_blank"}
+* [SSD Advisory - Tiandy IP cameras Sensitive Information Disclosure](https://blogs.securiteam.com/index.php/archives/3444){:target="_blank"}
+* [SSD Advisory - Horde Groupware Unauthorized File Download](https://blogs.securiteam.com/index.php/archives/3454){:target="_blank"}
+* [[dev.twitter.com] XSS](http://blog.blackfan.ru/2017/09/devtwittercom-xss.html){:target="_blank"}
+* [TrackMania - a Chrome plugin to stalk your friends on Tinder](https://labs.detectify.com/2017/09/26/trackmania-a-chrome-plugin-to-stalk-your-friends){:target="_blank"}
+* [HackerOne CEO Marten Mickos On Bug Bounty Programs - HackerOne](https://www.hackerone.com/blog/marten-mickos-tripwire-interview){:target="_blank"}
+* [Hacker Q&A with Gerben_Javado: To Share Knowledge is to Gain Knowledge](https://www.hackerone.com/q-and-a-with-hacker-gerban-javado){:target="_blank"}
+* [Interview with Sam Houston](http://blake12356.com/interviews/2017/09/21/Interview-with-Sam-Houston.html){:target="_blank"}
+* [Disclose users with roles on Facebook pages](https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages){:target="_blank"}
+* [Cut Through The Noise; The Value of a Disclosure Program](http://blog.bugcrowd.com/cut-through-the-noise-the-value-of-a-disclosure-program){:target="_blank"}
+* [How The U.S. Government is Out-Innovating Corporate America - HackerOne](https://www.hackerone.com/blog/How-The-US-Government-is-Out-Innovating-Corporate-America){:target="_blank"}
+* [900$ XSS in yahoo ( Recon Wins ) - Th3G3nt3lman - Medium](https://medium.com/@th3g3nt3l/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd?source=rss-e93a8f4034a8------2){:target="_blank"}
+* [SSD Advisory - FLIR Systems Multiple Vulnerabilities](https://blogs.securiteam.com/index.php/archives/3411){:target="_blank"}
+* [SSD Advisory - Sentora / ZPanel Password Reset Vulnerability](https://blogs.securiteam.com/index.php/archives/3386){:target="_blank"}
+* [How i bypassed Practo's firewall and triggered a XSS.](https://medium.com/@vipinxsec/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc){:target="_blank"}
+* [Bugcrowd](https://www.bugcrowd.com){:target="_blank"}
+* [Bugcrowd - Correcting the Math for Customers in their Cybersecurity Equation](http://blog.bugcrowd.com/bugcrowd-correcting-the-math-for-customers-in-their-cybersecurity-equation){:target="_blank"}
+* [More Than Just Security: 451 Research Webinar Recap](https://www.hackerone.com/blog/more-than-just-security-451-research-webinar-recap){:target="_blank"}
+* [Uranium238 on Twitter](https://twitter.com/uraniumhacker/status/910981945214959616){:target="_blank"}
+* [How I hacked hundreds of companies through their helpdesk](https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c){:target="_blank"}
+* [Exploiting multiple Self XSSes via OAuth misconfiguration](http://www.shawarkhan.com/2017/09/exploiting-multiple-self-xsses-via.html?m=1){:target="_blank"}
+* [Shopify Shares How Hackers Help to Secure $40B+ in Transactions - HackerOne](https://www.hackerone.com/blog/shopify-shares-how-hackers-help-secure-40B-in-transactions){:target="_blank"}
+* [All About Hackerone Private Program Terapeak](http://guptashubham.com/all-about-hackerone-private-program-terapeak){:target="_blank"}
+* [How I Bypassed Open Redirection Tokens Using HTTP Parameter Pollution.](https://medium.com/@aneeskhan/how-i-bypassed-open-redirection-tokens-using-http-parameter-pollution-ea5be084a0f4){:target="_blank"}
+* [SecureDrop](https://securedrop.org){:target="_blank"}
+* [Ethical Security Research on SecureDrop](http://blog.bugcrowd.com/ethical-security-research-on-securedrop){:target="_blank"}
+* [Yo Github, could you find something for me ?](http://samidrif.net/index.php/2017/08/29/yo-github-could-you-find-something-for-me){:target="_blank"}
+* [Exploiting a Single Request for Multiple Vulnerabilities](http://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html){:target="_blank"}
+* [Private Program - Code Execution.](http://bugdiscloseguys.com/blog/index.php/2017/09/18/7){:target="_blank"}
+* [Moving Fast with Security](http://blog.bugcrowd.com/moving-fast-with-security){:target="_blank"}
+
+---
+## bugcrowd
+* [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102){:target="_blank"}
+
+---
+## disclosedbugs
+
+---
+## ctf
+* [Pranav Hivarekar on Twitter](https://twitter.com/HivarekarPranav/status/886798635576545281){:target="_blank"}
+* [Car Hacking in the Cloud (for Cheap) at DEF CON](http://blog.bugcrowd.com/car-hacking-in-the-cloud-for-cheap-at-def-con){:target="_blank"}
 
 ---
 ## general
@@ -62,8 +122,7 @@ date:   2017-10-11
 * [Hacktoberfest Checker](https://hacktoberfestchecker.herokuapp.com/?username=streaak){:target="_blank"}
 
 ---
-## bugcrowd
-* [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102){:target="_blank"}
+## programs
 
 ---
 ## web-security
@@ -86,6 +145,18 @@ date:   2017-10-11
 * [A list of questions that bug bounty hunters frequently DM me about.](https://gist.github.com/EdOverflow/661cc98af686833eb7be8e5be5884061){:target="_blank"}
 
 ---
+## news
+
+---
+## synack
+* [2017 Cyber Week Recap - Synack](https://www.synack.com/2017/08/17/2017-cyber-week-recap){:target="_blank"}
+
+---
+## hackerone
+* [publiclyDisclosed on Twitter](https://twitter.com/disclosedh1/status/906517588376739841){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://twitter.com/disclosedh1/status/901217662235226112){:target="_blank"}
+
+---
 ## mobile-security
 * [Sensitive information disclosure - iOS app](http://www.tutorgeeks.net/2016/12/sensitive-information-disclosure-ios-app.html){:target="_blank"}
 * [OWASP Mobile Security Testing Guide · GitBook](https://www.gitbook.com/book/b-mueller/the-owasp-mobile-security-testing-guide/details){:target="_blank"}
@@ -96,7 +167,7 @@ date:   2017-10-11
 * [Pranav Hivarekar on Twitter](https://twitter.com/HivarekarPranav/status/886798635576545281){:target="_blank"}
 
 ---
-## news
+## help
 
 ---
 ## tools
@@ -119,77 +190,6 @@ date:   2017-10-11
 * [Uranium238 on Twitter](https://twitter.com/uraniumhacker/status/905626917927174144){:target="_blank"}
 * [XSSHunter SMS Trigger](https://ifttt.com/applets/cpnKJ8ty-xsshunter-sms-trigger){:target="_blank"}
 * [HackerOne profile - lazy](https://hackerone.com/lazy){:target="_blank"}
-
----
-## blogs
-* [My First CloudFront Sub-Domain Hijack](https://blog.zsec.uk/subdomainhijack){:target="_blank"}
-* [When Parameterized Queries Won't Help](https://nickbloor.co.uk/2017/10/09/when-parameterized-queries-wont-help){:target="_blank"}
-* [Unauthorized FLIR (Lorex) Cloud Access](https://depthsecurity.com/blog/unauthorized-flir-cloud-access){:target="_blank"}
-* [Subdomain Takeover Through Expired Cloudfront Distribution - live.lamborghini.com - Security Breached Blog](https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked){:target="_blank"}
-* [Security Breached Blog - Security Breached - Latest Cyber News, Exploits, Tools & Tutorials - Securitybreached.org](https://blog.securitybreached.org){:target="_blank"}
-* [Consistency is Key: Aligning Bugcrowd's VRT with CVSS](http://blog.bugcrowd.com/consistency-is-key-aligning-bugcrowds-vrt-with-cvss-within-crowdcontrol){:target="_blank"}
-* [AMA with @uraniumhacker](https://bugbountyforum.com/blog/ama/uranium238){:target="_blank"}
-* [September 2017 Hall of Fame](http://blog.bugcrowd.com/september-2017-hall-of-fame){:target="_blank"}
-* [">](http://bayo.rocks/bbf_poc.html){:target="_blank"}
-* [SSD Advisory - QNAP HelpDesk SQL Injection](https://blogs.securiteam.com/index.php/archives/3469){:target="_blank"}
-* [SSD Advisory - PHP Melody Multiple Vulnerabilities](https://blogs.securiteam.com/index.php/archives/3464){:target="_blank"}
-* [Blind SQL injection through an Excel spread sheet](https://www.dionach.com/blog/blind-sql-injection-through-an-excel-spread-sheet){:target="_blank"}
-* [SSD Advisory - Vacron NVR Remote Command Execution](https://blogs.securiteam.com/index.php/archives/3445){:target="_blank"}
-* [Device Authorization Bypass! - HassanKhanYusufzai - Medium](https://medium.com/@HassanYusufzai/device-authorization-bypass-aa508c9193ed){:target="_blank"}
-* [What We Can Learn from NETGEAR's Approach to Security](http://blog.bugcrowd.com/what-we-can-learn-from-netgears-approach-to-security){:target="_blank"}
-* [Netgear's bug bounty program - Powered by Bugcrowd](https://bugcrowd.com/netgear){:target="_blank"}
-* [Introducing the Bugcrowd Researcher Advisory Council](http://blog.bugcrowd.com/introducing-the-bugcrowd-researcher-advisory-council){:target="_blank"}
-* [How I could have mass uploaded from every Flickr account!](https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account){:target="_blank"}
-* [XSLT Server Side Injection Attacks - Context Information Security](https://www.contextis.com/blog/xslt-server-side-injection-attacks){:target="_blank"}
-* [HackerOne Joins Forces with Node.js Foundation to Build a Safer Internet - HackerOne](https://www.hackerone.com/blog/node-js-foundation){:target="_blank"}
-* [Better than Cyber Monday: Ecommerce and Retail Edition of The Hacker-Powered Security Report - HackerOne](https://www.hackerone.com/blog/hacker-powered-security-report-retail-edition){:target="_blank"}
-* [SSD Advisory - Tiandy IP cameras Sensitive Information Disclosure](https://blogs.securiteam.com/index.php/archives/3444){:target="_blank"}
-* [SSD Advisory - Horde Groupware Unauthorized File Download](https://blogs.securiteam.com/index.php/archives/3454){:target="_blank"}
-* [[dev.twitter.com] XSS](http://blog.blackfan.ru/2017/09/devtwittercom-xss.html){:target="_blank"}
-* [TrackMania - a Chrome plugin to stalk your friends on Tinder](https://labs.detectify.com/2017/09/26/trackmania-a-chrome-plugin-to-stalk-your-friends){:target="_blank"}
-* [HackerOne CEO Marten Mickos On Bug Bounty Programs - HackerOne](https://www.hackerone.com/blog/marten-mickos-tripwire-interview){:target="_blank"}
-* [Hacker Q&A with Gerben_Javado: To Share Knowledge is to Gain Knowledge](https://www.hackerone.com/q-and-a-with-hacker-gerban-javado){:target="_blank"}
-* [Interview with Sam Houston](http://blake12356.com/interviews/2017/09/21/Interview-with-Sam-Houston.html){:target="_blank"}
-* [Disclose users with roles on Facebook pages](https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages){:target="_blank"}
-* [Cut Through The Noise; The Value of a Disclosure Program](http://blog.bugcrowd.com/cut-through-the-noise-the-value-of-a-disclosure-program){:target="_blank"}
-* [How The U.S. Government is Out-Innovating Corporate America - HackerOne](https://www.hackerone.com/blog/How-The-US-Government-is-Out-Innovating-Corporate-America){:target="_blank"}
-* [900$ XSS in yahoo ( Recon Wins ) - Th3G3nt3lman - Medium](https://medium.com/@th3g3nt3l/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd?source=rss-e93a8f4034a8------2){:target="_blank"}
-* [SSD Advisory - FLIR Systems Multiple Vulnerabilities](https://blogs.securiteam.com/index.php/archives/3411){:target="_blank"}
-* [SSD Advisory - Sentora / ZPanel Password Reset Vulnerability](https://blogs.securiteam.com/index.php/archives/3386){:target="_blank"}
-* [How i bypassed Practo's firewall and triggered a XSS.](https://medium.com/@vipinxsec/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc){:target="_blank"}
-* [Bugcrowd](https://www.bugcrowd.com){:target="_blank"}
-* [Bugcrowd - Correcting the Math for Customers in their Cybersecurity Equation](http://blog.bugcrowd.com/bugcrowd-correcting-the-math-for-customers-in-their-cybersecurity-equation){:target="_blank"}
-* [More Than Just Security: 451 Research Webinar Recap](https://www.hackerone.com/blog/more-than-just-security-451-research-webinar-recap){:target="_blank"}
-* [Uranium238 on Twitter](https://twitter.com/uraniumhacker/status/910981945214959616){:target="_blank"}
-* [How I hacked hundreds of companies through their helpdesk](https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c){:target="_blank"}
-* [Exploiting multiple Self XSSes via OAuth misconfiguration](http://www.shawarkhan.com/2017/09/exploiting-multiple-self-xsses-via.html?m=1){:target="_blank"}
-* [Shopify Shares How Hackers Help to Secure $40B+ in Transactions - HackerOne](https://www.hackerone.com/blog/shopify-shares-how-hackers-help-secure-40B-in-transactions){:target="_blank"}
-* [All About Hackerone Private Program Terapeak](http://guptashubham.com/all-about-hackerone-private-program-terapeak){:target="_blank"}
-* [How I Bypassed Open Redirection Tokens Using HTTP Parameter Pollution.](https://medium.com/@aneeskhan/how-i-bypassed-open-redirection-tokens-using-http-parameter-pollution-ea5be084a0f4){:target="_blank"}
-* [SecureDrop](https://securedrop.org){:target="_blank"}
-* [Ethical Security Research on SecureDrop](http://blog.bugcrowd.com/ethical-security-research-on-securedrop){:target="_blank"}
-* [Yo Github, could you find something for me ?](http://samidrif.net/index.php/2017/08/29/yo-github-could-you-find-something-for-me){:target="_blank"}
-* [Exploiting a Single Request for Multiple Vulnerabilities](http://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html){:target="_blank"}
-* [Private Program - Code Execution.](http://bugdiscloseguys.com/blog/index.php/2017/09/18/7){:target="_blank"}
-* [Moving Fast with Security](http://blog.bugcrowd.com/moving-fast-with-security){:target="_blank"}
-
----
-## ctf
-* [Pranav Hivarekar on Twitter](https://twitter.com/HivarekarPranav/status/886798635576545281){:target="_blank"}
-* [Car Hacking in the Cloud (for Cheap) at DEF CON](http://blog.bugcrowd.com/car-hacking-in-the-cloud-for-cheap-at-def-con){:target="_blank"}
-
----
-## help
-
----
-## disclosedbugs
-
----
-## synack
-* [2017 Cyber Week Recap - Synack](https://www.synack.com/2017/08/17/2017-cyber-week-recap){:target="_blank"}
-
----
-## programs
 
 ---
 *Thank you [@mhmdiaa](https://twitter.com/@mhmdiaa) for helping to setup this page*
