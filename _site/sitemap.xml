@@ -21,6 +21,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/slack-links-archive/links/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/rules/</loc>
 </url>
 <url>
