@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.5.0 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+--><html lang="en" class="no-js">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>EOC - Post #0 - Bug Bounty World</title>
+
+
+
+
+<meta name="description" content="Tip">
+
+
+
+
+<meta name="author" content="EdOverflow">
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Bug Bounty World">
+<meta property="og:title" content="EOC - Post #0">
+
+
+  <link rel="canonical" href="http://localhost:4000/eoc-post-0/">
+  <meta property="og:url" content="http://localhost:4000/eoc-post-0/">
+
+
+
+  <meta property="og:description" content="Tip">
+
+
+
+  <meta name="twitter:site" content="@bugbounty_world">
+  <meta name="twitter:title" content="EOC - Post #0">
+  <meta name="twitter:description" content="Tip">
+  <meta name="twitter:url" content="http://localhost:4000/eoc-post-0/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+    <meta name="twitter:creator" content="@EdOverflow">
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2017-08-16T00:00:00+05:30">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Bug Bounty World",
+      "url" : "http://localhost:4000",
+      "sameAs" : ["https://twitter.com/bugbounty_world"]
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Bug Bounty World Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">Bug Bounty World</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">Home</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bugbounty-world.slack.com">Sign In</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7_ZNpxlsFOF9_1ZqNMayc_njgB-OqDeQvIA-JvTORlmkNeQ/viewform">Sign Up</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/contact/">Contact</a></li>
+          
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">EdOverflow</h3>
+    
+      <p class="author__bio" itemprop="description">
+        Webdev &amp; security researcher.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        <li>
+          <a href="https://twitter.com/EdOverflow" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://twitter.com/EdOverflow" itemprop="sameAs">
+            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="EOC - Post #0">
+    <meta itemprop="description" content="Tip">
+    <meta itemprop="datePublished" content="August 16, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">EOC - Post #0
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <h1 id="tip">Tip</h1>
+
+<p><strong>Lightweight Mark<img class="emoji" title=":up:" alt=":up:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f199.png" height="20" width="20" align="absmiddle"> language vulnerabilities</strong></p>
+
+<p>So you might be familiar with some leightweight markup languages (LML) such as RubyDoc, Textile and reStructuredText, but have you ever tried finding security issues with them?</p>
+
+<p>First check this <a href="https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_language_features">table</a> for all features the LML supports. Some LMLs support class and id attributes! This allows you to use predefined styles on the current page.</p>
+
+<p><strong>RubyDoc (.rdoc)</strong></p>
+
+<div class="highlighter-rouge">
+<pre class="highlight"><code>XSS[JavaScript:alert(1)]
+</code></pre>
+</div>
+
+<p><strong>Textile (.textile)</strong></p>
+
+<p>Surprisingly, Textilte supports a lot of things including the style attribute.</p>
+
+<div class="highlighter-rouge">
+<pre class="highlight"><code>"Test link":javascript:alert(1)
+p(#my-paragraph). This is a paragraph that has an id.
+p(myclass). This is a paragraph that has a class.
+div(myclass#myid). This div has both a CSS class and an id.
+p{font-size: 0.8em}. Small font.
+</code></pre>
+</div>
+
+<p><strong>reStructuredText (.rst)</strong></p>
+
+<div class="highlighter-rouge">
+<pre class="highlight"><code>`Test link`__.  __ javascript:alert(document.domain)
+</code></pre>
+</div>
+
+<p><strong>AsciiDoc (.adoc)</strong></p>
+
+<div class="highlighter-rouge">
+<pre class="highlight"><code>http://example.com[Reverse Tabnabbing^]
+</code></pre>
+</div>
+
+<h1 id="challenge">Challenge</h1>
+
+<p>You must find the challenge first.</p>
+
+<p><img src="https://i.imgur.com/ANeyQKA.jpg" alt=""></p>
+
+<blockquote>
+  <p>Oiusetba elhrk plv xvtm, vhrqpvj jmsaa wr Glycv ws xlms fsaaifw avap klq, nz ph zsermg ws gbzq wlr uweoif vn Phhvh ijdmazb Dvxlhohv. Aulv wkil dmuh vrhlb, ki flvw d qrzadji gv Kbuyf, oqggia pv wki oltob ss h pdui, vunruqvuo klq goiw wlr Tmgleaz erxpq tcwlrl vv wki spmog, wuvcog lr ainh eeta djevuaw kmf nzdqhshbkhv.</p>
+</blockquote>
+
+<p>The key is hidden.</p>
+
+<p><em>Tip:</em> The solution is just a text excerpt.</p>
+
+<h1 id="rules">Rules</h1>
+
+<p>As always the rules are:</p>
+<ul>
+  <li>DM me (@EdOverflow) your solution. Please send me a little write-up so that I can see how you went about solving the challenge.</li>
+  <li>Do not post solutions in the channel.</li>
+  <li>You may work in teams to solve challenge.</li>
+  <li>Challenges end when at least 5 people have solved the challenge.</li>
+  <li>If you have questions you can contact me. Please do not ask for solutions before the challenge ends.</li>
+</ul>
+
+<h1 id="references">References</h1>
+
+<ul>
+  <li><a href="https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md">https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md</a></li>
+  <li><a href="https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/">https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/</a></li>
+  <li><a href="https://hackerone.com/reports/213114">https://hackerone.com/reports/213114</a></li>
+</ul>
+
+<h1 id="solution-2017-08-17">Solution (2017-08-17)</h1>
+
+<details>
+	<summary>By <a href="https://twitter.com/uraniumhacker">@uraniumhacker</a></summary>
+1) Ed is a troll
+<br>
+2) The key is literally "hidden"
+<br>
+3) copy the vigenere and the for the key put "hidden"
+<br>
+4) Solved
+</details>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-08-16T00:00:00+05:30">August 16, 2017</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=bugbounty_world&amp;text=EOC%20-%20Post%20#0%20http://localhost:4000/eoc-post-0/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/eoc-post-0/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http://localhost:4000/eoc-post-0/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/eoc-post-0/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="http://localhost:4000/eoc-post-1/" class="pagination--pager" title="EOC - Post #1
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/bugbounty_world"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105339933-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="page__footer-copyright">© 2017 Bug Bounty World. </div>
+
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+
+  </body>
+</html>
