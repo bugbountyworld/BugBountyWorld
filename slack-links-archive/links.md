@@ -2,112 +2,59 @@
 layout: single
 title:  "Slack Links Archive"
 author: mhmdiaa
-date:   2019-04-19
+date:   2019-04-20
 ---
-## help
-* [Valve disclosed on HackerOne: Reflected XSS on help.steampowered.com](https://t.co/AjRVNIWOOA){:target="_blank"}
-* [Storing image in database directly or as base64 data?](https://stackoverflow.com/questions/9722603/storing-image-in-database-directly-or-as-base64-data){:target="_blank"}
-* [Live ParrotOs Screen Tearing Glitch](https://community.parrotsec.org/t/live-parrotos-screen-tearing-glitch/5671){:target="_blank"}
-* [http://0hidod40epp6oe9m52czvf6uwl2bq0.burpcollaborator.net](http://0hidod40epp6oe9m52czvf6uwl2bq0.burpcollaborator.net){:target="_blank"}
-* [RCE in Hubspot with EL injection in HubL](https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html){:target="_blank"}
-* [.xyz Domain Names - Join Generation XYZ](http://xyz.com/.htaccess){:target="_blank"}
-* [Your Elastic Security Team, better security testing through bug bounties and managed security programs - Bugcrowd](https://bugcrowd.com/vrt){:target="_blank"}
-* [Your Elastic Security Team, better security testing through bug bounties and managed security programs - Bugcrowd](https://bugcrowd.com/vulnerability-rating-taxonomy){:target="_blank"}
-* [Differences between Client-side and Server-side Scripting](https://www.sqa.org.uk/e-learning/ClientSide01CD/page_18.htm){:target="_blank"}
-* [How to Enter Full Screen Mode in macOS in VirtualBox](https://techsviewer.com/how-to-enter-full-screen-mode-macos-virtualbox){:target="_blank"}
-* [🍌 (@0xbanana) - Twitter](https://twitter.com/0xbanana){:target="_blank"}
-* [App Keys &amp; Secrets: Security](https://docs.urbanairship.com/reference/security/app-keys-secrets){:target="_blank"}
-* [Bypassing Certificate Pinning on Android for fun and profit](https://medium.com/@felipecsl/bypassing-certificate-pinning-on-android-for-fun-and-profit-1b0d14beab2b){:target="_blank"}
-* [How to bypass certificate validation (SSL pinning)](https://medium.com/bugbountywriteup/how-to-bypass-certificate-validation-ssl-pinning-ef8af8b15c40){:target="_blank"}
-* [http://shops.myshopify.com](http://shops.myshopify.com){:target="_blank"}
-* [Security Engineer at Grofers](https://grofers.recruiterbox.com/jobs/fk0jhi2){:target="_blank"}
-* [Credentials leaked in public? Here&#x27;s what Grofers implemented to prevent such mishaps!](https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af){:target="_blank"}
-* [USS Henry Clay SSBN-625 HOME PAGE](http://user-services.com){:target="_blank"}
-* [Products and Services - Hardware, Software, Services - Oracle](http://services.com){:target="_blank"}
-* [mywebsite.com -&amp;nbspmywebsite Resources and Information.](http://user.mywebsite.com){:target="_blank"}
-* [mywebsite.com -&amp;nbspmywebsite Resources and Information.](http://mywebsite.com){:target="_blank"}
-* [Uber disclosed on HackerOne: Client secret, server tokens for...](https://hackerone.com/reports/419655){:target="_blank"}
-* [Socket.IO](http://socket.io){:target="_blank"}
-* [Example Domain](https://example.com){:target="_blank"}
-* [github-recon](https://gist.github.com/ehsahil/e3ed229229ae0f966585b02fc74f236d){:target="_blank"}
-* [describe-permissions - AWS CLI 1.16.104 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/opsworks/describe-permissions.html){:target="_blank"}
-* [View Responsive Page](https://receive-a-sms.com/Netherlands){:target="_blank"}
-* [3 Ways to Exploit Misconfigured Cross-Origin Resource Sharing (CORS)](https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors){:target="_blank"}
-* [Public buckets by grayhatwarfare](https://buckets.grayhatwarfare.com){:target="_blank"}
-* [Overview](http://site.com){:target="_blank"}
-* [Facebook - Log In or Sign Up](http://facebook.com){:target="_blank"}
-* [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd&#x27;s LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w){:target="_blank"}
-* [How To Shot Web - Jason Haddix&#x27;s talk from DEFCON23](https://www.youtube.com/watch?amp;index=23&amp;list=LLJk6CANdWethCeXNqx5Kweg&amp;t=0s&v=VtFuAH19Qz0){:target="_blank"}
-* [Redirecting to the page](https://blnk.in/WUcFxI){:target="_blank"}
-* [https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf](https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf){:target="_blank"}
-* [Kyle on Twitter](https://twitter.com/B3nac/status/1083193550429249538){:target="_blank"}
-* [Error 1016 - Origin DNS error](https://support.cloudflare.com/hc/en-us/articles/234979888-Error-1016-Origin-DNS-error){:target="_blank"}
-* [API - Branch documentation](https://docs.branch.io/pages/apps/api){:target="_blank"}
-* [.xyz Domain Names - Join Generation XYZ](https://nexus.prod2.xyz.com){:target="_blank"}
-* [HackerOne](https://hackerone.com/hacker_dashboard/getting_started){:target="_blank"}
-* [Error 404 : Hacking-Lab.com](http://hacking-lab.com){:target="_blank"}
-* [Home](http://www.hacker101.com){:target="_blank"}
-* [Life as a bug bounty hunter: a struggle every day, just to get paid](https://www.technologyreview.com/s/611896/life-as-a-bug-bounty-hunter/amp){:target="_blank"}
-* [Zomato disclosed on HackerOne: Reflected XSS on developers.zomato.com](https://hackerone.com/reports/418823){:target="_blank"}
-* [Bug Hunter Chat](https://t.me/BugCrowdChat){:target="_blank"}
-* [Hacking Articles - Raj Chandel&#x27;s Blog](https://www.hackingarticles.in){:target="_blank"}
-* [SecurityTrails - Domain Security, DNS Trails and IP Tools - SecurityTrails](http://dnstrails.com){:target="_blank"}
-* [Cross-site Scripting (XSS) - OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)){:target="_blank"}
-* [Using sed to remove all lines containing special characters , numbers, and spaces](https://askubuntu.com/questions/642757/using-sed-to-remove-all-lines-containing-special-characters-numbers-and-space){:target="_blank"}
-* [Target : Expect More. Pay Less.](https://target.com/security/oauth/keys){:target="_blank"}
-
----
-## hackerone
-* [HackerOne disclosed on HackerOne: HackerOne Integrations Design Issue](https://t.co/u5X1F58d5E){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/fgMLGmNtAx){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/ag2HqgKovr){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/22zFEJiJpN){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/p11bSsJcWO){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/weerGbyZJ1){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/WcIDkqcDxp){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/C9xNpsgCB6){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/abxMSFKZak){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/PhdfuOJVFN){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/G6jzZ06FTh){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/bRPZ2hpPF1){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/TAaF7MEXzj){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/bqqTB6LvRg){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/WJcMxA2tud){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/isP7XhDXpe){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/3r0RX3af2y){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/HGfXe49wvL){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/01bknHG44g){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/rGukFaQJsL){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/Ywkv0w4aHX){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/CA1oxUNPO0){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/6GXudquhEt){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/bheNK9LJkT){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/vJ1N1Ny7jL){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/jYO9aVCvF0){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/U5sdLM6vUz){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/6RfJ3AB8nF){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/4Qu8SgoHWf){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/gWETZ6ltLA){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/NWMv2PlMeW){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/QpBXggebRk){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/nyYd7yyjmT){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/tWASdn5qav){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/qyWSWMQaQW){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/5UhECdCbHW){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/J3e2NUGlID){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/rDyIXjGuX8){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/Jk6YoW1lus){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/IKjQ3plaI2){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/IS3qrPu2pQ){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/UlX52fKInZ){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/kFPUw86GlA){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/cs356lSAXJ){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/F6XRQu0jH0){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/RLAQPfA9W1){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/z3ePE1bQJ3){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/lIVP68PQyP){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/sN9kRXyLo6){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/EHUGKP0Nsh){:target="_blank"}
+## ctf
+* [r/securityCTF - Writeup for Teacher machine on HackTheBox](http://bit.ly/2VVysOf){:target="_blank"}
+* [r/securityCTF - Check out the Hacky Easter competition!](http://bit.ly/2IssVeY){:target="_blank"}
+* [r/securityCTF - Not sure if image or not](http://bit.ly/2Ir1phU){:target="_blank"}
+* [r/securityCTF - Please find the flag for me](http://bit.ly/2UGWsIc){:target="_blank"}
+* [r/securityCTF - Ticketastic Deluxe Hacker101 Help](http://bit.ly/2ZfjjJx){:target="_blank"}
+* [r/securityCTF - can anyone help me with this ctf](http://bit.ly/2Uokkew){:target="_blank"}
+* [r/securityCTF - WPICTF 2019](http://bit.ly/2Imkz8E){:target="_blank"}
+* [r/securityCTF - Hint request - easy way to patch a binary in CTF](http://bit.ly/2UzIJCS){:target="_blank"}
+* [r/securityCTF - Writing/using a defense bot](http://bit.ly/2DanfBJ){:target="_blank"}
+* [r/securityCTF - Byte Bandits CTF 2019](http://bit.ly/2UVwFvb){:target="_blank"}
+* [r/securityCTF - Easy CTF Challenges for University Event?](http://bit.ly/2V2YL80){:target="_blank"}
+* [r/securityCTF - A Discord Server with CTF built into it](http://bit.ly/2IwAnEN){:target="_blank"}
+* [r/securityCTF - I Come In Peace from Psychology. Theoretically, would any of you be interested in letting me strap a brain reader and brain stimulator to your heads in order to make you perform better during CTF&#x27;s?](http://bit.ly/2Iu2c0I){:target="_blank"}
+* [r/securityCTF - BOF exploit using ROP gadgets](http://bit.ly/2Zj1Z6y){:target="_blank"}
+* [r/securityCTF - Hacker101 CTF](http://bit.ly/2IvqgAe){:target="_blank"}
+* [r/securityCTF - Suggestions for beginners](http://bit.ly/2P4hoTk){:target="_blank"}
+* [r/securityCTF - Vulnhub SP: leopold](http://bit.ly/2UT2wg6){:target="_blank"}
+* [r/securityCTF - Using Ctfd with Amazon S3](http://bit.ly/2IlEbJb){:target="_blank"}
+* [r/securityCTF - TJCTF 2019](http://bit.ly/2IcjD6F){:target="_blank"}
+* [r/securityCTF - Solution for OldSchool task from CONFidence Teaser 2019](http://bit.ly/2uYyOYg){:target="_blank"}
+* [r/securityCTF - Looking for some assistance with a ctf](http://bit.ly/2G01DsA){:target="_blank"}
+* [r/securityCTF - CTF collaboration software](http://bit.ly/2VCsh1r){:target="_blank"}
+* [r/securityCTF - TempImage Hacker101 ctf](http://bit.ly/2X06FMJ){:target="_blank"}
+* [r/securityCTF - HackTheBox Curling](http://bit.ly/2VpPSCk){:target="_blank"}
+* [r/securityCTF - Finding buddies to ctf with?](http://bit.ly/2UjAlr7){:target="_blank"}
+* [r/securityCTF - [Reverse] Midnightsun CTF 2019 - Hfs-mbr](http://bit.ly/2VvouCQ){:target="_blank"}
+* [r/securityCTF - Web CTF&#x27;s tonight](http://bit.ly/2WNUkef){:target="_blank"}
+* [r/securityCTF - Vault: Hack The Box Walkthrough](http://bit.ly/2VoYuc5){:target="_blank"}
+* [r/securityCTF - Vault write-up by epi](http://bit.ly/2OVzM0x){:target="_blank"}
+* [r/securityCTF - TJCTF 2019 -- April 5 to 9](http://bit.ly/2UxOgJh){:target="_blank"}
+* [r/securityCTF - EncryptCTF forensic Challenges](http://bit.ly/2FQ0P9t){:target="_blank"}
+* [r/securityCTF - Open-Source Online Steganography Tool](http://bit.ly/2OOFJwf){:target="_blank"}
+* [r/securityCTF - EncryptCTF Web challenges](https://ift.tt/2Vq89PO){:target="_blank"}
+* [r/securityCTF - CTF this Friday](https://ift.tt/2uN5x2O){:target="_blank"}
+* [r/securityCTF - Large Mysterious Base64 String?](https://ift.tt/2VgQf1Q){:target="_blank"}
+* [r/securityCTF - Hacky Easter 2019 - Teaser](https://ift.tt/2uHFutZ){:target="_blank"}
+* [r/securityCTF - How I Hosted a Local Community Based Capture the Flag Competition](https://ift.tt/2uJBBV2){:target="_blank"}
+* [r/securityCTF - Is there a write up for Volga CTF Beard party?](https://ift.tt/2FRVYpG){:target="_blank"}
+* [r/securityCTF - Need some help on #cody&#x27;s first blog](https://ift.tt/2YG0Xku){:target="_blank"}
+* [r/securityCTF - [Crypto] VolgaCtf2019 - Blind](https://ift.tt/2FNOyU8){:target="_blank"}
+* [r/securityCTF - Boot2root CTF Challenge](https://ift.tt/2FOj0hg){:target="_blank"}
+* [r/securityCTF - Mobile security challenges](https://ift.tt/2YGC2x8){:target="_blank"}
+* [r/securityCTF - Curling: Hack The Box Walkthrough](https://ift.tt/2YDFmsT){:target="_blank"}
+* [r/securityCTF - Curling write-up by epi](https://ift.tt/2TGc1uo){:target="_blank"}
+* [What is the blog about](http://themctfwriteups.com){:target="_blank"}
+* [r/securityCTF - HackTheBox - Frolic](https://ift.tt/2CKMWbW){:target="_blank"}
+* [r/securityCTF - unix-privesc-check Error message](https://ift.tt/2HXrnbM){:target="_blank"}
+* [r/securityCTF - ASCII hex converter?](https://ift.tt/2WpSDDy){:target="_blank"}
+* [r/securityCTF - 10 minutes to get all flags while on the train](https://ift.tt/2V3lJZr){:target="_blank"}
+* [r/securityCTF - Hack The Box - Frolic write-up by epi](https://ift.tt/2WkSJMN){:target="_blank"}
 
 ---
 ## synack
@@ -185,6 +132,59 @@ date:   2019-04-19
 * [Google](http://google.com){:target="_blank"}
 
 ---
+## tools
+* [Abartan Dhakal (MAD) 🇳🇵🇦🇨 on Twitter](https://twitter.com/imhaxormad/status/1070839362059784193?s=19){:target="_blank"}
+* [Wfuzz: The Web fuzzer - Wfuzz 2.1.4 documentation](https://wfuzz.readthedocs.io/en/latest){:target="_blank"}
+* [RIPS - free PHP security scanner using static code analysis](http://rips-scanner.sourceforge.net){:target="_blank"}
+* [Using massdns to filter live hosts/Subdomains from the list of hosts/subdomains](http://imranparay.blogspot.com/2018/09/using-massdns-to-filter-live.html){:target="_blank"}
+* [Tools](https://report-uri.com/home/tools){:target="_blank"}
+* [PentestBox](https://pentestbox.org){:target="_blank"}
+* [003random on Twitter](https://twitter.com/rub003/status/1091308614105686017){:target="_blank"}
+* [Using Firefox Add-Ons for #BugBounty - sushiwushi - Medium](https://medium.com/@sushiwushi2/using-firefox-add-ons-for-bugbounty-3b55f838ea1e){:target="_blank"}
+* [Detect secret leaks in Android Apps](http://android.fallible.co){:target="_blank"}
+* [Go - ArchWiki](https://wiki.archlinux.org/index.php/Go){:target="_blank"}
+* [burpsuite_pro_v2.0beta.jar](https://drive.google.com/open?id=1SDJabqpGQ5uGEEzO5EL1OrXDrqHGBikM){:target="_blank"}
+* [decoder_new.jar](https://drive.google.com/open?id=1rvMTtG5zQ7yR6QEadI42fKjA-jIriUci){:target="_blank"}
+* [Detailed writeup of both one line php and Return of one line php](https://spyclub.tech/2018/12/21/one-line-and-return-of-one-line-php-writeup){:target="_blank"}
+* [Bugcrowd](https://www.youtube.com/bugcrowd){:target="_blank"}
+* [Sergey Bobrov on Twitter](https://twitter.com/Black2Fan/status/1072573409727524864?s=19){:target="_blank"}
+* [Find email addresses in seconds * Hunter (Email Hunter)](http://hunter.io){:target="_blank"}
+* [Fiddler - Free Web Debugging Proxy - Telerik](https://www.telerik.com/fiddler){:target="_blank"}
+* [003random on Twitter](https://twitter.com/rub003/status/1060987867604893696){:target="_blank"}
+* [The best Burp plugin I&#x27;ve ever seen - Ivan Novikov - Medium](https://medium.com/@d0znpp/the-best-burp-plugin-ive-ever-seen-2d17780342){:target="_blank"}
+* [How to brute force efficiently without Burp Pro - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/how-to-brute-force-efficiently-without-burp-pro-1bb2a414a09f){:target="_blank"}
+* [SimplyHacker](https://simplyhacker.com/search?domain=upserve.com){:target="_blank"}
+* [SimplyHacker](https://simplyhacker.com/search){:target="_blank"}
+* [Burp Suite 2.0 beta now available](https://portswigger.net/blog/burp-suite-2-0-beta-now-available){:target="_blank"}
+* [US court stated scraping, even when against TOS, is legal](http://scraping.pro/us-court-scraping-against-tos-legal){:target="_blank"}
+* [Blind XSS for beginners - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/blind-xss-for-beginners-c88e48083071){:target="_blank"}
+* [Uber Internal](http://uberinternal.com){:target="_blank"}
+* [Codename, codeword or project name: create them all using the generator](http://www.codenamegenerator.com){:target="_blank"}
+* [File Change Monitor](http://filechangemonitor.io){:target="_blank"}
+* [r/hacking - Hamburglar - Directory/file traversal to find keys, ip addresses, emails, crypto addresses, and more. One configurable script, regex driven.](https://reddit.app.link/HYgQTSqCyO){:target="_blank"}
+* [Bharath on Twitter](https://twitter.com/yamakira_/status/1016860120947363840){:target="_blank"}
+* [DNS-over-HTTPS - Public DNS - Google Developers](https://developers.google.com/speed/public-dns/docs/dns-over-https){:target="_blank"}
+* [Frans Rosén on Twitter](https://twitter.com/fransrosen/status/1015287960277868545){:target="_blank"}
+* [Using error messages to decloak an S3 bucket. Uses soap, unicode, post, multipart, streaming and index listing as ways of figure it out. You do need a valid aws-key (never the secret) to properly get the error messages](https://gist.github.com/fransr/a155e5bd7ab11c93923ec8ce788e3368){:target="_blank"}
+* [smiegles/httpFuzzer](https://webcache.googleusercontent.com/search?amp;cd=1&amp;ct=clnk&amp;gl=in&amp;hl=en&q=cache:ax4WGRgDb_YJ:https://github.com/smiegles/httpFuzzer){:target="_blank"}
+* [Vrienden - Ruben Bos - Hyven](https://webcache.googleusercontent.com/search?amp;cd=1&amp;ct=clnk&amp;gl=nl&amp;hl=nl&q=cache:YJ3yMhwEbjoJ:https://hyven.nl/profile/rubentjebosje/friends){:target="_blank"}
+* [H1-702 CTF ~ Write-Up](https://poc-server.com/blog/2018/06/22/h1-702-write-up){:target="_blank"}
+* [Google](https://google.com){:target="_blank"}
+* [ICU - Keep An Updated Database Of Your Assets](https://poc-server.com/blog/2018/06/15/icu-keep-an-updated-database-of-your-assets){:target="_blank"}
+* [Nenad Zaric on Twitter](https://twitter.com/_ntrz/status/1007602807967485953){:target="_blank"}
+* [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplin.cozic.net){:target="_blank"}
+* [Laverna - keep your notes private](https://laverna.cc){:target="_blank"}
+* [Zim - a desktop wiki](http://zim-wiki.org/manual/Help/Wiki_Syntax.html){:target="_blank"}
+* [https://cdn-images-1.medium.com/max/2000/1*BoAy1Lr5DZDWMABMuyBlGw.png](https://cdn-images-1.medium.com/max/2000/1*BoAy1Lr5DZDWMABMuyBlGw.png){:target="_blank"}
+* [Michael Henriksen on Twitter](https://twitter.com/michenriksen/status/1005027807183949824){:target="_blank"}
+* [Diff Checker](https://www.diffchecker.com/82q7PREw){:target="_blank"}
+* [Installing PowerShell on Kali Linux](https://www.kali.org/tutorials/installing-powershell-on-kali-linux){:target="_blank"}
+* [GitLab.com / GitLab Ultimate or Gold for open source projects](https://gitlab.com/gitlab-com/gitlab-ultimate-for-open-source){:target="_blank"}
+* [IP History - ViewDNS.info](http://viewdns.info/iphistory){:target="_blank"}
+* [SecurityTrails - Domain Security, DNS Trails and IP Tools - SecurityTrails](https://dnstrails.com){:target="_blank"}
+* [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com){:target="_blank"}
+
+---
 ## general
 * [Gaming Glasses - Anti Blue Light Glasses - Eye Strain Glasses - GUNNAR](https://gunnar.com/gaming-glasses){:target="_blank"}
 * [Remote Code Execution - 2 (Apache struts vulnerability)](https://youtu.be/NYYRQw3ltSk){:target="_blank"}
@@ -238,114 +238,62 @@ date:   2019-04-19
 * [0101 The Age of the API](https://www.youtube.com/watch?amp;list=PLtyf9mYhDhSdo_DzYSRxLYAXI2Jsrzw-V&v=ialO68diURg){:target="_blank"}
 
 ---
-## news
-* [r/netsec - Unmasked: An Analysis of 10 Million Passwords](http://bit.ly/2GrO0T1){:target="_blank"}
-* [r/netsec - How the Boeing 737 Max Disaster Looks to a Software Developer](http://bit.ly/2IHEE8v){:target="_blank"}
-* [r/netsec - BlueCommand: Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard](http://bit.ly/2KNWU2P){:target="_blank"}
-* [r/netsec - Using Slack as a C2 Channel (Download Code)](http://bit.ly/2KM8MlS){:target="_blank"}
-* [r/netsec - Simple Tool for Testing CVE Mitigation in Web Apps](http://bit.ly/2XqAZQO){:target="_blank"}
-* [r/netsec - Must watch (IMHO) Securing Vendor Webapps - A Vulnerability Assessment on HELK](http://bit.ly/2GlINMH){:target="_blank"}
-* [r/netsec - User privileges in Docker containers](http://bit.ly/2INk4nx){:target="_blank"}
-* [r/netsec - RCE in EA&#x27;s Origin Desktop Client](http://bit.ly/2XkZkHv){:target="_blank"}
-* [r/netsec - APT34 Hacking Tools Leak](http://bit.ly/2KXePUC){:target="_blank"}
-* [r/netsec - pipetap.sh: Remote wireshark. Invoke tcpdump over ssh piping to STDOUT, for importation to a local Wireshark via STDIN.](http://bit.ly/2UISvmd){:target="_blank"}
-* [r/netsec - Drop-by-Drop: Bleeding through libvips (CVE-2019-6976)](http://bit.ly/2Gjq7NE){:target="_blank"}
-* [r/netsec - The Complete CompTIA Certification Training Bundle: Lifetime Access - StackSocial](http://bit.ly/2IFUjp5){:target="_blank"}
-* [r/netsec - Reverse-engineering Broadcom wireless chipsets](http://bit.ly/2Gvqzd3){:target="_blank"}
-* [r/netsec - PolyLogyx osquery Extension for Windows Extension to osquery that enhances it with real-time telemetry, log monitoring and other endpoint data collection](http://bit.ly/2ZrNwVY){:target="_blank"}
-* [r/netsec - How NOT to use the PAM trust - Leveraging Shadow Principals for Cross Forest Attacks](http://bit.ly/2VPevs9){:target="_blank"}
-* [r/netsec - CERT Notice of VPN Vulns](http://bit.ly/2KJXzSN){:target="_blank"}
-* [r/netsec - Jailbreaking Subaru StarLink](http://bit.ly/2ICWhXd){:target="_blank"}
-* [r/netsec - Password Spraying- Common mistakes and how to avoid them](http://bit.ly/2Usmr1e){:target="_blank"}
-* [r/netsec - Arjun : API Testing Tool (Finds HTTP Parameters)](http://bit.ly/2UqvvDu){:target="_blank"}
-* [r/netsec - Microsoft Edge Uses a Secret Trick And Breaks Internet Explorer&#x27;s Security](http://bit.ly/2UoUmb0){:target="_blank"}
-* [Golem.de: IT-News für Profis](http://golem.de){:target="_blank"}
-* [r/netsec - Subdomain Takeover: Microsoft loses control over Windows Tiles - Golem.de](http://bit.ly/2Xq3UVd){:target="_blank"}
-* [r/netsec - DHCP security in Windows 10: critical vulnerability CVE-2019-0726](http://bit.ly/2XfuakP){:target="_blank"}
-* [r/netsec - GitHub - MITRE ATT&amp;CK™ TTP Automation for Metasploit Framework](http://bit.ly/2V20utV){:target="_blank"}
-* [r/netsec - Attacking Hardware Root of Trust from UEFI Firmware](http://bit.ly/2VMVM0h){:target="_blank"}
-* [r/netsec - My Personal OSINT Techniques, Part 1 of 2: Key &amp; Layer, Contingency Seeding](http://bit.ly/2DepyUI){:target="_blank"}
-* [r/netsec - Massive eGobbler Malvertising Campaign Leverages Chrome Vulnerability To Target iOS Users [r/adops x-post]](http://bit.ly/2ImjIEN){:target="_blank"}
-* [r/netsec - How Domain Fronting helped the most at-risk users on Tor, Telegram and Signal and Why It&#x27;s Dying](http://bit.ly/2DipaEv){:target="_blank"}
-* [r/netsec - Privilege Escalation in ManageEngine ADManager Plus 6.6](http://bit.ly/2Git80I){:target="_blank"}
-* [r/netsec - Malware creators convicted of hijacking 400,000 computers](http://bit.ly/2DhrpYN){:target="_blank"}
-* [r/netsec - GitHub - HA71/pywhatcms: Unofficial WhatCMS API package](http://bit.ly/2V27FT2){:target="_blank"}
-* [r/netsec - CVE-2019-0841: Windows Local Privilege Escalation through Windows Apps](http://bit.ly/2v7Ev6A){:target="_blank"}
-* [r/netsec - How does Tor really work? An in-depth guide](http://bit.ly/2IpUFRg){:target="_blank"}
-* [r/netsec - Adblock Plus filter lists may execute arbitrary code in web pages](http://bit.ly/2v8Ry7M){:target="_blank"}
-* [r/netsec - The Outlook Winner is Dash](http://bit.ly/2Uh78YR){:target="_blank"}
-* [r/netsec - Cobalt Strike Walkthrough - In Depth Post](http://bit.ly/2Ggyl99){:target="_blank"}
-* [r/netsec - Coerchck - PowerShell Script For Listing Local Admins - Blue Team](http://bit.ly/2VJMdzm){:target="_blank"}
-* [r/netsec - CVE-2019-9730: Local Privilege Elevation in Synaptics Sound Device Driver (Write-Up + Exploit)](http://bit.ly/2Gcm85o){:target="_blank"}
-* [r/netsec - GitHub - realtho/PartyLoud: A simple tool to do several HTTP / HTTPS requests and simulate navigation](http://bit.ly/2GhrwUJ){:target="_blank"}
-* [r/netsec - Quantum Cryptography](http://bit.ly/2Iw38BH){:target="_blank"}
-* [r/netsec - Timing Attacks reviewed using Machine Learning](http://bit.ly/2DhuLLj){:target="_blank"}
-* [r/netsec - P4wnP1 USB shell while evading Symantec detection features.](http://bit.ly/2KEUWSf){:target="_blank"}
-* [r/netsec - Envoy CVE-2019-9900 and CVE-2019-9901](http://bit.ly/2Darmhi){:target="_blank"}
-* [r/netsec - Spectre Attacks: Exploiting Speculative Execution](http://bit.ly/2GdD8by){:target="_blank"}
-* [r/netsec - Anatomy of the Triton Malware Attack.](http://bit.ly/2UAlGrF){:target="_blank"}
-* [r/netsec - CVE-2019-8513: Command injection in macOS TimeMachine allows reliable local root privilege escalation exploit](http://bit.ly/2XaTrfQ){:target="_blank"}
-* [r/netsec - Exploiting Apache Solr through OpenCMS](http://bit.ly/2IscRc8){:target="_blank"}
-* [r/netsec - New linux privilege Escalation techniques abusing sudo token](http://bit.ly/2UWefKI){:target="_blank"}
-* [r/netsec - Hack The Box - RedCross write-up by 0xRick](http://bit.ly/2DfCtFU){:target="_blank"}
-* [r/netsec - Hack The Box - Redcross Writeup by 0xdf](http://bit.ly/2VNPWvX){:target="_blank"}
-
----
-## ctf
-* [r/securityCTF - Check out the Hacky Easter competition!](http://bit.ly/2IssVeY){:target="_blank"}
-* [r/securityCTF - Not sure if image or not](http://bit.ly/2Ir1phU){:target="_blank"}
-* [r/securityCTF - Please find the flag for me](http://bit.ly/2UGWsIc){:target="_blank"}
-* [r/securityCTF - Ticketastic Deluxe Hacker101 Help](http://bit.ly/2ZfjjJx){:target="_blank"}
-* [r/securityCTF - can anyone help me with this ctf](http://bit.ly/2Uokkew){:target="_blank"}
-* [r/securityCTF - WPICTF 2019](http://bit.ly/2Imkz8E){:target="_blank"}
-* [r/securityCTF - Hint request - easy way to patch a binary in CTF](http://bit.ly/2UzIJCS){:target="_blank"}
-* [r/securityCTF - Writing/using a defense bot](http://bit.ly/2DanfBJ){:target="_blank"}
-* [r/securityCTF - Byte Bandits CTF 2019](http://bit.ly/2UVwFvb){:target="_blank"}
-* [r/securityCTF - Easy CTF Challenges for University Event?](http://bit.ly/2V2YL80){:target="_blank"}
-* [r/securityCTF - A Discord Server with CTF built into it](http://bit.ly/2IwAnEN){:target="_blank"}
-* [r/securityCTF - I Come In Peace from Psychology. Theoretically, would any of you be interested in letting me strap a brain reader and brain stimulator to your heads in order to make you perform better during CTF&#x27;s?](http://bit.ly/2Iu2c0I){:target="_blank"}
-* [r/securityCTF - BOF exploit using ROP gadgets](http://bit.ly/2Zj1Z6y){:target="_blank"}
-* [r/securityCTF - Hacker101 CTF](http://bit.ly/2IvqgAe){:target="_blank"}
-* [r/securityCTF - Suggestions for beginners](http://bit.ly/2P4hoTk){:target="_blank"}
-* [r/securityCTF - Vulnhub SP: leopold](http://bit.ly/2UT2wg6){:target="_blank"}
-* [r/securityCTF - Using Ctfd with Amazon S3](http://bit.ly/2IlEbJb){:target="_blank"}
-* [r/securityCTF - TJCTF 2019](http://bit.ly/2IcjD6F){:target="_blank"}
-* [r/securityCTF - Solution for OldSchool task from CONFidence Teaser 2019](http://bit.ly/2uYyOYg){:target="_blank"}
-* [r/securityCTF - Looking for some assistance with a ctf](http://bit.ly/2G01DsA){:target="_blank"}
-* [r/securityCTF - CTF collaboration software](http://bit.ly/2VCsh1r){:target="_blank"}
-* [r/securityCTF - TempImage Hacker101 ctf](http://bit.ly/2X06FMJ){:target="_blank"}
-* [r/securityCTF - HackTheBox Curling](http://bit.ly/2VpPSCk){:target="_blank"}
-* [r/securityCTF - Finding buddies to ctf with?](http://bit.ly/2UjAlr7){:target="_blank"}
-* [r/securityCTF - [Reverse] Midnightsun CTF 2019 - Hfs-mbr](http://bit.ly/2VvouCQ){:target="_blank"}
-* [r/securityCTF - Web CTF&#x27;s tonight](http://bit.ly/2WNUkef){:target="_blank"}
-* [r/securityCTF - Vault: Hack The Box Walkthrough](http://bit.ly/2VoYuc5){:target="_blank"}
-* [r/securityCTF - Vault write-up by epi](http://bit.ly/2OVzM0x){:target="_blank"}
-* [r/securityCTF - TJCTF 2019 -- April 5 to 9](http://bit.ly/2UxOgJh){:target="_blank"}
-* [r/securityCTF - EncryptCTF forensic Challenges](http://bit.ly/2FQ0P9t){:target="_blank"}
-* [r/securityCTF - Open-Source Online Steganography Tool](http://bit.ly/2OOFJwf){:target="_blank"}
-* [r/securityCTF - EncryptCTF Web challenges](https://ift.tt/2Vq89PO){:target="_blank"}
-* [r/securityCTF - CTF this Friday](https://ift.tt/2uN5x2O){:target="_blank"}
-* [r/securityCTF - Large Mysterious Base64 String?](https://ift.tt/2VgQf1Q){:target="_blank"}
-* [r/securityCTF - Hacky Easter 2019 - Teaser](https://ift.tt/2uHFutZ){:target="_blank"}
-* [r/securityCTF - How I Hosted a Local Community Based Capture the Flag Competition](https://ift.tt/2uJBBV2){:target="_blank"}
-* [r/securityCTF - Is there a write up for Volga CTF Beard party?](https://ift.tt/2FRVYpG){:target="_blank"}
-* [r/securityCTF - Need some help on #cody&#x27;s first blog](https://ift.tt/2YG0Xku){:target="_blank"}
-* [r/securityCTF - [Crypto] VolgaCtf2019 - Blind](https://ift.tt/2FNOyU8){:target="_blank"}
-* [r/securityCTF - Boot2root CTF Challenge](https://ift.tt/2FOj0hg){:target="_blank"}
-* [r/securityCTF - Mobile security challenges](https://ift.tt/2YGC2x8){:target="_blank"}
-* [r/securityCTF - Curling: Hack The Box Walkthrough](https://ift.tt/2YDFmsT){:target="_blank"}
-* [r/securityCTF - Curling write-up by epi](https://ift.tt/2TGc1uo){:target="_blank"}
-* [What is the blog about](http://themctfwriteups.com){:target="_blank"}
-* [r/securityCTF - HackTheBox - Frolic](https://ift.tt/2CKMWbW){:target="_blank"}
-* [r/securityCTF - unix-privesc-check Error message](https://ift.tt/2HXrnbM){:target="_blank"}
-* [r/securityCTF - ASCII hex converter?](https://ift.tt/2WpSDDy){:target="_blank"}
-* [r/securityCTF - 10 minutes to get all flags while on the train](https://ift.tt/2V3lJZr){:target="_blank"}
-* [r/securityCTF - Hack The Box - Frolic write-up by epi](https://ift.tt/2WkSJMN){:target="_blank"}
-* [r/securityCTF - mXtract - Memory Extractor &amp; Analyzer](https://ift.tt/2HA0BGV){:target="_blank"}
+## disclosedbugs
+* [concrete5 disclosed on HackerOne: SVG file that HTML Included is...](https://t.co/nt8bZ2R7SQ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/3uDt9MKrvc){:target="_blank"}
+* [HackerOne disclosed on HackerOne: Homograph attack in escalate report](https://t.co/ogqkFicPcy){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/9gOVfxgljd){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/4WGwFIJCx8){:target="_blank"}
+* [Twitter disclosed on HackerOne: Protected tweets exposure through...](https://t.co/eLjQNJ6bog){:target="_blank"}
+* [GitLab disclosed on HackerOne: Full access to internal Gitlab...](https://t.co/syMFbSGhyM){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/kO2QWmaSZh){:target="_blank"}
+* [ZEIT - Vulnerability Disclosure Program - HackerOne](https://t.co/6ReZfjS1Fn){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/GmIEr4L8Q3){:target="_blank"}
+* [Shopify disclosed on HackerOne: H1514 DOMXSS on Embedded SDK via...](https://t.co/bP5HuBHyH2){:target="_blank"}
+* [Nextcloud disclosed on HackerOne: Talk / spreed: Disclosure of Room...](https://t.co/FFk0C8ydZZ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/y7JVRQaixx){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/fm408DOYOq){:target="_blank"}
+* [Central Security Project disclosed on HackerOne: c3p0 may be...](https://t.co/KpNLngCDbO){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/fgMLGmNtAx){:target="_blank"}
+* [Zomato disclosed on HackerOne: Sending Unlimited Emails to anyone...](https://t.co/2bPnnyThSx){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/ag2HqgKovr){:target="_blank"}
+* [Zomato disclosed on HackerOne: Bypassing the SMS sending limit for...](https://t.co/fOU6lE01wi){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/92FpARPCRZ){:target="_blank"}
+* [Zomato disclosed on HackerOne: [api.zomato.com] Able to manipulate...](https://t.co/antHOHhI81){:target="_blank"}
+* [TomTom - Vulnerability Disclosure Program - HackerOne](https://t.co/N4HyWy2z9E){:target="_blank"}
+* [Sweatco Ltd - Vulnerability Disclosure Program - HackerOne](https://t.co/cCbPOAmD0w){:target="_blank"}
+* [Razer US disclosed on HackerOne: Jenkins instance exposed without...](https://t.co/B0H4iAwdTJ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/Y93kkqEy9r){:target="_blank"}
+* [Lob disclosed on HackerOne: Discloser of Internal Ip address](https://t.co/cfMql1Xrmo){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/22zFEJiJpN){:target="_blank"}
+* [Livestream - Bug Bounty Program - HackerOne](https://t.co/ws9cU7FpH8){:target="_blank"}
+* [Ed disclosed on HackerOne: securitytemplate.site domain hijack](https://t.co/YDxD9pVTZW){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/mAUdtBMY4j){:target="_blank"}
+* [Xilinx - Vulnerability Disclosure Program - HackerOne](https://t.co/BDsoMOHK42){:target="_blank"}
+* [Automattic disclosed on HackerOne: No Rate Limit on CrowdSignal...](https://t.co/f6dGdRF858){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/HPyiaKyYJY){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/IosskBcSkh){:target="_blank"}
+* [GitLab disclosed on HackerOne: SSRF in CI after first run](https://t.co/Z1vAmFpkA2){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/hw3wFIeP8v){:target="_blank"}
+* [HackerOne disclosed on HackerOne: Previous attachments can be...](https://t.co/fzxIDfgfSu){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/p11bSsJcWO){:target="_blank"}
+* [SEMrush disclosed on HackerOne: Web cache deception attack - expose...](https://t.co/w8hxSRGt6K){:target="_blank"}
+* [SEMrush disclosed on HackerOne: Ports are not shown in third-party...](https://t.co/QFp5Hs6MKU){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/weerGbyZJ1){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/WcIDkqcDxp){:target="_blank"}
+* [OLX disclosed on HackerOne: XSS inside HTML Link Tag](https://t.co/GB8H1hIKsr){:target="_blank"}
+* [Python Cryptographic Authority - Vulnerability Disclosure Program - HackerOne](https://t.co/mUhXTncjSI){:target="_blank"}
+* [Nextcloud disclosed on HackerOne: NextCloud is also Accepting...](https://t.co/PwXPZwc7Jo){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/UaI7gbcmeN){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/yn5jIJBk1b){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/C9xNpsgCB6){:target="_blank"}
+* [HackerOne disclosed on HackerOne: HackerOne Integrations Design Issue](https://t.co/u5X1F58d5E){:target="_blank"}
+* [HackerOne disclosed on HackerOne: Missing rate limit on critical...](https://t.co/HwjhMr56X3){:target="_blank"}
 
 ---
 ## blogs
 * [MS15-034 - Range Header Integer Overflow - TrustedSec](https://www.trustedsec.com/2015/04/ms15-034-range-header-integer-overflow){:target="_blank"}
+* [Announcing the Community T-shirt Winner(s) - HackerOne](https://www.hackerone.com/blog/announcing-community-t-shirt-winners-0){:target="_blank"}
 * [3 Lessons Learned from Synack&#x27;s 2019 Government Roundtables on Crowdsourced Security Testing - Synack](https://www.synack.com/blog/lessons-learned-synack-government-roundtables-crowdsourced-security-testing){:target="_blank"}
 * [3 Lessons Learned from Synack&#x27;s 2019 Government Roundtables on Crowdsourced Security Testing - Synack](https://www.synack.com/blog/lessons-learned-synack-2019-government-roundtables-crowdsourced-security-testing){:target="_blank"}
 * [Dhiraj on Twitter](https://twitter.com/mishradhiraj_/status/1118498125696552960){:target="_blank"}
@@ -394,7 +342,6 @@ date:   2019-04-19
 * [Fuzzing Webkit](https://www.inputzero.io/2019/02/fuzzing-webkit.html){:target="_blank"}
 * [Dhiraj on Twitter](https://twitter.com/mishradhiraj_/status/1099401126540181504){:target="_blank"}
 * [Chain of hacks leading to Database Compromise - Avinash Jain (https://twitter.com/logicbomb_1) - Medium](https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915){:target="_blank"}
-* [Design the next HackerOne T-Shirt](https://www.hackerone.com/blog/Design-next-HackerOne-T-Shirt){:target="_blank"}
 
 ---
 ## mobile-security
@@ -455,110 +402,163 @@ date:   2019-04-19
 * [United States Department of Defense](http://defense.gov){:target="_blank"}
 
 ---
-## disclosedbugs
-* [GitLab disclosed on HackerOne: Full access to internal Gitlab...](https://t.co/syMFbSGhyM){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/kO2QWmaSZh){:target="_blank"}
-* [ZEIT - Vulnerability Disclosure Program - HackerOne](https://t.co/6ReZfjS1Fn){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/GmIEr4L8Q3){:target="_blank"}
-* [Shopify disclosed on HackerOne: H1514 DOMXSS on Embedded SDK via...](https://t.co/bP5HuBHyH2){:target="_blank"}
-* [Nextcloud disclosed on HackerOne: Talk / spreed: Disclosure of Room...](https://t.co/FFk0C8ydZZ){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/y7JVRQaixx){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/fm408DOYOq){:target="_blank"}
-* [Central Security Project disclosed on HackerOne: c3p0 may be...](https://t.co/KpNLngCDbO){:target="_blank"}
+## hackerone
+* [HackerOne disclosed on HackerOne: HackerOne Integrations Design Issue](https://t.co/u5X1F58d5E){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/3uDt9MKrvc){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/fgMLGmNtAx){:target="_blank"}
-* [Zomato disclosed on HackerOne: Sending Unlimited Emails to anyone...](https://t.co/2bPnnyThSx){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/ag2HqgKovr){:target="_blank"}
-* [Zomato disclosed on HackerOne: Bypassing the SMS sending limit for...](https://t.co/fOU6lE01wi){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/92FpARPCRZ){:target="_blank"}
-* [Zomato disclosed on HackerOne: [api.zomato.com] Able to manipulate...](https://t.co/antHOHhI81){:target="_blank"}
-* [TomTom - Vulnerability Disclosure Program - HackerOne](https://t.co/N4HyWy2z9E){:target="_blank"}
-* [Sweatco Ltd - Vulnerability Disclosure Program - HackerOne](https://t.co/cCbPOAmD0w){:target="_blank"}
-* [Razer US disclosed on HackerOne: Jenkins instance exposed without...](https://t.co/B0H4iAwdTJ){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/Y93kkqEy9r){:target="_blank"}
-* [Lob disclosed on HackerOne: Discloser of Internal Ip address](https://t.co/cfMql1Xrmo){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/22zFEJiJpN){:target="_blank"}
-* [Livestream - Bug Bounty Program - HackerOne](https://t.co/ws9cU7FpH8){:target="_blank"}
-* [Ed disclosed on HackerOne: securitytemplate.site domain hijack](https://t.co/YDxD9pVTZW){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/mAUdtBMY4j){:target="_blank"}
-* [Xilinx - Vulnerability Disclosure Program - HackerOne](https://t.co/BDsoMOHK42){:target="_blank"}
-* [Automattic disclosed on HackerOne: No Rate Limit on CrowdSignal...](https://t.co/f6dGdRF858){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/HPyiaKyYJY){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/IosskBcSkh){:target="_blank"}
-* [GitLab disclosed on HackerOne: SSRF in CI after first run](https://t.co/Z1vAmFpkA2){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/hw3wFIeP8v){:target="_blank"}
-* [HackerOne disclosed on HackerOne: Previous attachments can be...](https://t.co/fzxIDfgfSu){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/p11bSsJcWO){:target="_blank"}
-* [SEMrush disclosed on HackerOne: Web cache deception attack - expose...](https://t.co/w8hxSRGt6K){:target="_blank"}
-* [SEMrush disclosed on HackerOne: Ports are not shown in third-party...](https://t.co/QFp5Hs6MKU){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/weerGbyZJ1){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/WcIDkqcDxp){:target="_blank"}
-* [OLX disclosed on HackerOne: XSS inside HTML Link Tag](https://t.co/GB8H1hIKsr){:target="_blank"}
-* [Python Cryptographic Authority - Vulnerability Disclosure Program - HackerOne](https://t.co/mUhXTncjSI){:target="_blank"}
-* [Nextcloud disclosed on HackerOne: NextCloud is also Accepting...](https://t.co/PwXPZwc7Jo){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/UaI7gbcmeN){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/yn5jIJBk1b){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/C9xNpsgCB6){:target="_blank"}
-* [HackerOne disclosed on HackerOne: HackerOne Integrations Design Issue](https://t.co/u5X1F58d5E){:target="_blank"}
-* [HackerOne disclosed on HackerOne: Missing rate limit on critical...](https://t.co/HwjhMr56X3){:target="_blank"}
 * [publiclyDisclosed on Twitter](https://t.co/abxMSFKZak){:target="_blank"}
-* [HackerOne disclosed on HackerOne: Missing Certificate Authority...](https://t.co/XBq2gfG2By){:target="_blank"}
-* [publiclyDisclosed on Twitter](https://t.co/nCBi6g5DEy){:target="_blank"}
-* [VK mobile version](https://t.co/bG2nGmmKZR){:target="_blank"}
-* [VK.com disclosed on HackerOne: Логирование ответов запросов VK API...](https://t.co/kGtDJpgUsX){:target="_blank"}
-* [RubyGems disclosed on HackerOne: Delete directory using symlink...](https://t.co/KVcwd3teG1){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/PhdfuOJVFN){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/G6jzZ06FTh){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/bRPZ2hpPF1){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/TAaF7MEXzj){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/bqqTB6LvRg){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/WJcMxA2tud){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/isP7XhDXpe){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/3r0RX3af2y){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/HGfXe49wvL){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/01bknHG44g){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/rGukFaQJsL){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/Ywkv0w4aHX){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/CA1oxUNPO0){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/6GXudquhEt){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/bheNK9LJkT){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/vJ1N1Ny7jL){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/jYO9aVCvF0){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/U5sdLM6vUz){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/6RfJ3AB8nF){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/4Qu8SgoHWf){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/gWETZ6ltLA){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/NWMv2PlMeW){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/QpBXggebRk){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/nyYd7yyjmT){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/tWASdn5qav){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/qyWSWMQaQW){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/5UhECdCbHW){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/J3e2NUGlID){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/rDyIXjGuX8){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/Jk6YoW1lus){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/IKjQ3plaI2){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/IS3qrPu2pQ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/UlX52fKInZ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/kFPUw86GlA){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/cs356lSAXJ){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/F6XRQu0jH0){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/RLAQPfA9W1){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/z3ePE1bQJ3){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/lIVP68PQyP){:target="_blank"}
+* [publiclyDisclosed on Twitter](https://t.co/sN9kRXyLo6){:target="_blank"}
 
 ---
-## tools
-* [Abartan Dhakal (MAD) 🇳🇵🇦🇨 on Twitter](https://twitter.com/imhaxormad/status/1070839362059784193?s=19){:target="_blank"}
-* [Wfuzz: The Web fuzzer - Wfuzz 2.1.4 documentation](https://wfuzz.readthedocs.io/en/latest){:target="_blank"}
-* [RIPS - free PHP security scanner using static code analysis](http://rips-scanner.sourceforge.net){:target="_blank"}
-* [Using massdns to filter live hosts/Subdomains from the list of hosts/subdomains](http://imranparay.blogspot.com/2018/09/using-massdns-to-filter-live.html){:target="_blank"}
-* [Tools](https://report-uri.com/home/tools){:target="_blank"}
-* [PentestBox](https://pentestbox.org){:target="_blank"}
-* [003random on Twitter](https://twitter.com/rub003/status/1091308614105686017){:target="_blank"}
-* [Using Firefox Add-Ons for #BugBounty - sushiwushi - Medium](https://medium.com/@sushiwushi2/using-firefox-add-ons-for-bugbounty-3b55f838ea1e){:target="_blank"}
-* [Detect secret leaks in Android Apps](http://android.fallible.co){:target="_blank"}
-* [Go - ArchWiki](https://wiki.archlinux.org/index.php/Go){:target="_blank"}
-* [burpsuite_pro_v2.0beta.jar](https://drive.google.com/open?id=1SDJabqpGQ5uGEEzO5EL1OrXDrqHGBikM){:target="_blank"}
-* [decoder_new.jar](https://drive.google.com/open?id=1rvMTtG5zQ7yR6QEadI42fKjA-jIriUci){:target="_blank"}
-* [Detailed writeup of both one line php and Return of one line php](https://spyclub.tech/2018/12/21/one-line-and-return-of-one-line-php-writeup){:target="_blank"}
-* [Bugcrowd](https://www.youtube.com/bugcrowd){:target="_blank"}
-* [Sergey Bobrov on Twitter](https://twitter.com/Black2Fan/status/1072573409727524864?s=19){:target="_blank"}
-* [Find email addresses in seconds * Hunter (Email Hunter)](http://hunter.io){:target="_blank"}
-* [Fiddler - Free Web Debugging Proxy - Telerik](https://www.telerik.com/fiddler){:target="_blank"}
-* [003random on Twitter](https://twitter.com/rub003/status/1060987867604893696){:target="_blank"}
-* [The best Burp plugin I&#x27;ve ever seen - Ivan Novikov - Medium](https://medium.com/@d0znpp/the-best-burp-plugin-ive-ever-seen-2d17780342){:target="_blank"}
-* [How to brute force efficiently without Burp Pro - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/how-to-brute-force-efficiently-without-burp-pro-1bb2a414a09f){:target="_blank"}
-* [SimplyHacker](https://simplyhacker.com/search?domain=upserve.com){:target="_blank"}
-* [SimplyHacker](https://simplyhacker.com/search){:target="_blank"}
-* [Burp Suite 2.0 beta now available](https://portswigger.net/blog/burp-suite-2-0-beta-now-available){:target="_blank"}
-* [US court stated scraping, even when against TOS, is legal](http://scraping.pro/us-court-scraping-against-tos-legal){:target="_blank"}
-* [Blind XSS for beginners - InfoSec Write-ups - Medium](https://medium.com/bugbountywriteup/blind-xss-for-beginners-c88e48083071){:target="_blank"}
-* [Uber Internal](http://uberinternal.com){:target="_blank"}
-* [Codename, codeword or project name: create them all using the generator](http://www.codenamegenerator.com){:target="_blank"}
-* [File Change Monitor](http://filechangemonitor.io){:target="_blank"}
-* [r/hacking - Hamburglar - Directory/file traversal to find keys, ip addresses, emails, crypto addresses, and more. One configurable script, regex driven.](https://reddit.app.link/HYgQTSqCyO){:target="_blank"}
-* [Bharath on Twitter](https://twitter.com/yamakira_/status/1016860120947363840){:target="_blank"}
-* [DNS-over-HTTPS - Public DNS - Google Developers](https://developers.google.com/speed/public-dns/docs/dns-over-https){:target="_blank"}
-* [Frans Rosén on Twitter](https://twitter.com/fransrosen/status/1015287960277868545){:target="_blank"}
-* [Using error messages to decloak an S3 bucket. Uses soap, unicode, post, multipart, streaming and index listing as ways of figure it out. You do need a valid aws-key (never the secret) to properly get the error messages](https://gist.github.com/fransr/a155e5bd7ab11c93923ec8ce788e3368){:target="_blank"}
-* [smiegles/httpFuzzer](https://webcache.googleusercontent.com/search?amp;cd=1&amp;ct=clnk&amp;gl=in&amp;hl=en&q=cache:ax4WGRgDb_YJ:https://github.com/smiegles/httpFuzzer){:target="_blank"}
-* [Vrienden - Ruben Bos - Hyven](https://webcache.googleusercontent.com/search?amp;cd=1&amp;ct=clnk&amp;gl=nl&amp;hl=nl&q=cache:YJ3yMhwEbjoJ:https://hyven.nl/profile/rubentjebosje/friends){:target="_blank"}
-* [H1-702 CTF ~ Write-Up](https://poc-server.com/blog/2018/06/22/h1-702-write-up){:target="_blank"}
-* [Google](https://google.com){:target="_blank"}
-* [ICU - Keep An Updated Database Of Your Assets](https://poc-server.com/blog/2018/06/15/icu-keep-an-updated-database-of-your-assets){:target="_blank"}
-* [Nenad Zaric on Twitter](https://twitter.com/_ntrz/status/1007602807967485953){:target="_blank"}
-* [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplin.cozic.net){:target="_blank"}
-* [Laverna - keep your notes private](https://laverna.cc){:target="_blank"}
-* [Zim - a desktop wiki](http://zim-wiki.org/manual/Help/Wiki_Syntax.html){:target="_blank"}
-* [https://cdn-images-1.medium.com/max/2000/1*BoAy1Lr5DZDWMABMuyBlGw.png](https://cdn-images-1.medium.com/max/2000/1*BoAy1Lr5DZDWMABMuyBlGw.png){:target="_blank"}
-* [Michael Henriksen on Twitter](https://twitter.com/michenriksen/status/1005027807183949824){:target="_blank"}
-* [Diff Checker](https://www.diffchecker.com/82q7PREw){:target="_blank"}
-* [Installing PowerShell on Kali Linux](https://www.kali.org/tutorials/installing-powershell-on-kali-linux){:target="_blank"}
-* [GitLab.com / GitLab Ultimate or Gold for open source projects](https://gitlab.com/gitlab-com/gitlab-ultimate-for-open-source){:target="_blank"}
-* [IP History - ViewDNS.info](http://viewdns.info/iphistory){:target="_blank"}
-* [SecurityTrails - Domain Security, DNS Trails and IP Tools - SecurityTrails](https://dnstrails.com){:target="_blank"}
-* [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com){:target="_blank"}
+## help
+* [Valve disclosed on HackerOne: Reflected XSS on help.steampowered.com](https://t.co/AjRVNIWOOA){:target="_blank"}
+* [Storing image in database directly or as base64 data?](https://stackoverflow.com/questions/9722603/storing-image-in-database-directly-or-as-base64-data){:target="_blank"}
+* [Live ParrotOs Screen Tearing Glitch](https://community.parrotsec.org/t/live-parrotos-screen-tearing-glitch/5671){:target="_blank"}
+* [http://0hidod40epp6oe9m52czvf6uwl2bq0.burpcollaborator.net](http://0hidod40epp6oe9m52czvf6uwl2bq0.burpcollaborator.net){:target="_blank"}
+* [RCE in Hubspot with EL injection in HubL](https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html){:target="_blank"}
+* [.xyz Domain Names - Join Generation XYZ](http://xyz.com/.htaccess){:target="_blank"}
+* [Your Elastic Security Team, better security testing through bug bounties and managed security programs - Bugcrowd](https://bugcrowd.com/vrt){:target="_blank"}
+* [Your Elastic Security Team, better security testing through bug bounties and managed security programs - Bugcrowd](https://bugcrowd.com/vulnerability-rating-taxonomy){:target="_blank"}
+* [Differences between Client-side and Server-side Scripting](https://www.sqa.org.uk/e-learning/ClientSide01CD/page_18.htm){:target="_blank"}
+* [How to Enter Full Screen Mode in macOS in VirtualBox](https://techsviewer.com/how-to-enter-full-screen-mode-macos-virtualbox){:target="_blank"}
+* [🍌 (@0xbanana) - Twitter](https://twitter.com/0xbanana){:target="_blank"}
+* [App Keys &amp; Secrets: Security](https://docs.urbanairship.com/reference/security/app-keys-secrets){:target="_blank"}
+* [Bypassing Certificate Pinning on Android for fun and profit](https://medium.com/@felipecsl/bypassing-certificate-pinning-on-android-for-fun-and-profit-1b0d14beab2b){:target="_blank"}
+* [How to bypass certificate validation (SSL pinning)](https://medium.com/bugbountywriteup/how-to-bypass-certificate-validation-ssl-pinning-ef8af8b15c40){:target="_blank"}
+* [http://shops.myshopify.com](http://shops.myshopify.com){:target="_blank"}
+* [Security Engineer at Grofers](https://grofers.recruiterbox.com/jobs/fk0jhi2){:target="_blank"}
+* [Credentials leaked in public? Here&#x27;s what Grofers implemented to prevent such mishaps!](https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af){:target="_blank"}
+* [USS Henry Clay SSBN-625 HOME PAGE](http://user-services.com){:target="_blank"}
+* [Products and Services - Hardware, Software, Services - Oracle](http://services.com){:target="_blank"}
+* [mywebsite.com -&amp;nbspmywebsite Resources and Information.](http://user.mywebsite.com){:target="_blank"}
+* [mywebsite.com -&amp;nbspmywebsite Resources and Information.](http://mywebsite.com){:target="_blank"}
+* [Uber disclosed on HackerOne: Client secret, server tokens for...](https://hackerone.com/reports/419655){:target="_blank"}
+* [Socket.IO](http://socket.io){:target="_blank"}
+* [Example Domain](https://example.com){:target="_blank"}
+* [github-recon](https://gist.github.com/ehsahil/e3ed229229ae0f966585b02fc74f236d){:target="_blank"}
+* [describe-permissions - AWS CLI 1.16.104 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/opsworks/describe-permissions.html){:target="_blank"}
+* [View Responsive Page](https://receive-a-sms.com/Netherlands){:target="_blank"}
+* [3 Ways to Exploit Misconfigured Cross-Origin Resource Sharing (CORS)](https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors){:target="_blank"}
+* [Public buckets by grayhatwarfare](https://buckets.grayhatwarfare.com){:target="_blank"}
+* [Overview](http://site.com){:target="_blank"}
+* [Facebook - Log In or Sign Up](http://facebook.com){:target="_blank"}
+* [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd&#x27;s LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w){:target="_blank"}
+* [How To Shot Web - Jason Haddix&#x27;s talk from DEFCON23](https://www.youtube.com/watch?amp;index=23&amp;list=LLJk6CANdWethCeXNqx5Kweg&amp;t=0s&v=VtFuAH19Qz0){:target="_blank"}
+* [Redirecting to the page](https://blnk.in/WUcFxI){:target="_blank"}
+* [https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf](https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf){:target="_blank"}
+* [Kyle on Twitter](https://twitter.com/B3nac/status/1083193550429249538){:target="_blank"}
+* [Error 1016 - Origin DNS error](https://support.cloudflare.com/hc/en-us/articles/234979888-Error-1016-Origin-DNS-error){:target="_blank"}
+* [API - Branch documentation](https://docs.branch.io/pages/apps/api){:target="_blank"}
+* [.xyz Domain Names - Join Generation XYZ](https://nexus.prod2.xyz.com){:target="_blank"}
+* [HackerOne](https://hackerone.com/hacker_dashboard/getting_started){:target="_blank"}
+* [Error 404 : Hacking-Lab.com](http://hacking-lab.com){:target="_blank"}
+* [Home](http://www.hacker101.com){:target="_blank"}
+* [Life as a bug bounty hunter: a struggle every day, just to get paid](https://www.technologyreview.com/s/611896/life-as-a-bug-bounty-hunter/amp){:target="_blank"}
+* [Zomato disclosed on HackerOne: Reflected XSS on developers.zomato.com](https://hackerone.com/reports/418823){:target="_blank"}
+* [Bug Hunter Chat](https://t.me/BugCrowdChat){:target="_blank"}
+* [Hacking Articles - Raj Chandel&#x27;s Blog](https://www.hackingarticles.in){:target="_blank"}
+* [SecurityTrails - Domain Security, DNS Trails and IP Tools - SecurityTrails](http://dnstrails.com){:target="_blank"}
+* [Cross-site Scripting (XSS) - OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)){:target="_blank"}
+* [Using sed to remove all lines containing special characters , numbers, and spaces](https://askubuntu.com/questions/642757/using-sed-to-remove-all-lines-containing-special-characters-numbers-and-space){:target="_blank"}
+* [Target : Expect More. Pay Less.](https://target.com/security/oauth/keys){:target="_blank"}
+
+---
+## news
+* [r/netsec - Hack The Box - Teacher Write-up by 0xRick](http://bit.ly/2KS58qM){:target="_blank"}
+* [r/netsec - The Future of Vulnerabilities Equities Processes Around the World](http://bit.ly/2DsuBB0){:target="_blank"}
+* [r/netsec - (Thai) In-depth Analysis of &quot;SUDO_INJECT&quot; Privilege Escalation Vulnerability](http://bit.ly/2GBQ1fR){:target="_blank"}
+* [r/netsec - miniprint - A medium interaction printer honeypot 🍯](http://bit.ly/2KMOUin){:target="_blank"}
+* [r/netsec - A public database exposed medical records of 150k rehab patients](http://bit.ly/2XqJEmb){:target="_blank"}
+* [r/netsec - Protected tweets leakage through URL detection #XSSearch #BugBounty](http://bit.ly/2vfln6G){:target="_blank"}
+* [r/netsec - Unmasked: An Analysis of 10 Million Passwords](http://bit.ly/2GrO0T1){:target="_blank"}
+* [r/netsec - How the Boeing 737 Max Disaster Looks to a Software Developer](http://bit.ly/2IHEE8v){:target="_blank"}
+* [r/netsec - BlueCommand: Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard](http://bit.ly/2KNWU2P){:target="_blank"}
+* [r/netsec - Using Slack as a C2 Channel (Download Code)](http://bit.ly/2KM8MlS){:target="_blank"}
+* [r/netsec - Simple Tool for Testing CVE Mitigation in Web Apps](http://bit.ly/2XqAZQO){:target="_blank"}
+* [r/netsec - Must watch (IMHO) Securing Vendor Webapps - A Vulnerability Assessment on HELK](http://bit.ly/2GlINMH){:target="_blank"}
+* [r/netsec - User privileges in Docker containers](http://bit.ly/2INk4nx){:target="_blank"}
+* [r/netsec - RCE in EA&#x27;s Origin Desktop Client](http://bit.ly/2XkZkHv){:target="_blank"}
+* [r/netsec - APT34 Hacking Tools Leak](http://bit.ly/2KXePUC){:target="_blank"}
+* [r/netsec - pipetap.sh: Remote wireshark. Invoke tcpdump over ssh piping to STDOUT, for importation to a local Wireshark via STDIN.](http://bit.ly/2UISvmd){:target="_blank"}
+* [r/netsec - Drop-by-Drop: Bleeding through libvips (CVE-2019-6976)](http://bit.ly/2Gjq7NE){:target="_blank"}
+* [r/netsec - The Complete CompTIA Certification Training Bundle: Lifetime Access - StackSocial](http://bit.ly/2IFUjp5){:target="_blank"}
+* [r/netsec - Reverse-engineering Broadcom wireless chipsets](http://bit.ly/2Gvqzd3){:target="_blank"}
+* [r/netsec - PolyLogyx osquery Extension for Windows Extension to osquery that enhances it with real-time telemetry, log monitoring and other endpoint data collection](http://bit.ly/2ZrNwVY){:target="_blank"}
+* [r/netsec - How NOT to use the PAM trust - Leveraging Shadow Principals for Cross Forest Attacks](http://bit.ly/2VPevs9){:target="_blank"}
+* [r/netsec - CERT Notice of VPN Vulns](http://bit.ly/2KJXzSN){:target="_blank"}
+* [r/netsec - Jailbreaking Subaru StarLink](http://bit.ly/2ICWhXd){:target="_blank"}
+* [r/netsec - Password Spraying- Common mistakes and how to avoid them](http://bit.ly/2Usmr1e){:target="_blank"}
+* [r/netsec - Arjun : API Testing Tool (Finds HTTP Parameters)](http://bit.ly/2UqvvDu){:target="_blank"}
+* [r/netsec - Microsoft Edge Uses a Secret Trick And Breaks Internet Explorer&#x27;s Security](http://bit.ly/2UoUmb0){:target="_blank"}
+* [Golem.de: IT-News für Profis](http://golem.de){:target="_blank"}
+* [r/netsec - Subdomain Takeover: Microsoft loses control over Windows Tiles - Golem.de](http://bit.ly/2Xq3UVd){:target="_blank"}
+* [r/netsec - DHCP security in Windows 10: critical vulnerability CVE-2019-0726](http://bit.ly/2XfuakP){:target="_blank"}
+* [r/netsec - GitHub - MITRE ATT&amp;CK™ TTP Automation for Metasploit Framework](http://bit.ly/2V20utV){:target="_blank"}
+* [r/netsec - Attacking Hardware Root of Trust from UEFI Firmware](http://bit.ly/2VMVM0h){:target="_blank"}
+* [r/netsec - My Personal OSINT Techniques, Part 1 of 2: Key &amp; Layer, Contingency Seeding](http://bit.ly/2DepyUI){:target="_blank"}
+* [r/netsec - Massive eGobbler Malvertising Campaign Leverages Chrome Vulnerability To Target iOS Users [r/adops x-post]](http://bit.ly/2ImjIEN){:target="_blank"}
+* [r/netsec - How Domain Fronting helped the most at-risk users on Tor, Telegram and Signal and Why It&#x27;s Dying](http://bit.ly/2DipaEv){:target="_blank"}
+* [r/netsec - Privilege Escalation in ManageEngine ADManager Plus 6.6](http://bit.ly/2Git80I){:target="_blank"}
+* [r/netsec - Malware creators convicted of hijacking 400,000 computers](http://bit.ly/2DhrpYN){:target="_blank"}
+* [r/netsec - GitHub - HA71/pywhatcms: Unofficial WhatCMS API package](http://bit.ly/2V27FT2){:target="_blank"}
+* [r/netsec - CVE-2019-0841: Windows Local Privilege Escalation through Windows Apps](http://bit.ly/2v7Ev6A){:target="_blank"}
+* [r/netsec - How does Tor really work? An in-depth guide](http://bit.ly/2IpUFRg){:target="_blank"}
+* [r/netsec - Adblock Plus filter lists may execute arbitrary code in web pages](http://bit.ly/2v8Ry7M){:target="_blank"}
+* [r/netsec - The Outlook Winner is Dash](http://bit.ly/2Uh78YR){:target="_blank"}
+* [r/netsec - Cobalt Strike Walkthrough - In Depth Post](http://bit.ly/2Ggyl99){:target="_blank"}
+* [r/netsec - Coerchck - PowerShell Script For Listing Local Admins - Blue Team](http://bit.ly/2VJMdzm){:target="_blank"}
+* [r/netsec - CVE-2019-9730: Local Privilege Elevation in Synaptics Sound Device Driver (Write-Up + Exploit)](http://bit.ly/2Gcm85o){:target="_blank"}
+* [r/netsec - GitHub - realtho/PartyLoud: A simple tool to do several HTTP / HTTPS requests and simulate navigation](http://bit.ly/2GhrwUJ){:target="_blank"}
+* [r/netsec - Quantum Cryptography](http://bit.ly/2Iw38BH){:target="_blank"}
+* [r/netsec - Timing Attacks reviewed using Machine Learning](http://bit.ly/2DhuLLj){:target="_blank"}
+* [r/netsec - P4wnP1 USB shell while evading Symantec detection features.](http://bit.ly/2KEUWSf){:target="_blank"}
+* [r/netsec - Envoy CVE-2019-9900 and CVE-2019-9901](http://bit.ly/2Darmhi){:target="_blank"}
+* [r/netsec - Spectre Attacks: Exploiting Speculative Execution](http://bit.ly/2GdD8by){:target="_blank"}
 
 ---
 *Thank you [@mhmdiaa](https://twitter.com/@mhmdiaa) for helping to setup this page*
