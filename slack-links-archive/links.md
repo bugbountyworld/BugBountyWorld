@@ -2,34 +2,7 @@
 layout: single
 title:  "Slack Links Archive"
 author: mhmdiaa
-date:   2020-04-14
----
-## disclosedbugs
-
----
-## hackerone
-
----
-## news
-
----
-## web-security
-
----
-## blogs
-
----
-## bugcrowd
-
----
-## mobile-security
-
----
-## help
-
----
-## programs
-
+date:   2020-04-15
 ---
 ## tools
 
@@ -37,10 +10,37 @@ date:   2020-04-14
 ## synack
 
 ---
+## news
+
+---
 ## general
 
 ---
+## bugcrowd
+
+---
+## help
+
+---
+## web-security
+
+---
 ## ctf
+
+---
+## mobile-security
+
+---
+## blogs
+
+---
+## disclosedbugs
+
+---
+## programs
+
+---
+## hackerone
 
 ---
 *Thank you [@mhmdiaa](https://twitter.com/@mhmdiaa) for helping to setup this page*
